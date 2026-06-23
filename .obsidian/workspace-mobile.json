@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jules/Pending Review/Second Run 06232026/AEC Jules SRD v2 2026-06-23.md",
+                "file": "Jules/Pending Review/MoC Second Run 06232026/AEC Jules SRD v2 2026-06-23.md",
                 "mode": "source",
                 "source": false
               },
@@ -198,17 +198,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "b2c0b32eb842d51c",
+  "active": "bf1dbf5acff43611",
   "lastOpenFiles": [
-    "Jules/Pending Review/Second Run 06232026/AEC Jules Adventure Generator v2 2026-06-23.md",
-    "Jules/Pending Review/Second Run 06232026/AEC Jules SRD v2 2026-06-23.md",
-    "Jules/Pending Review/Second Run 06232026/AEC Jules Bestiary v2 2026-06-23.md",
-    "Jules/Pending Review/Second Run 06232026/AEC Jules Unsorted Raw v2 2026-06-23.md",
-    "Jules/Pending Review/Second Run 06232026/AEC Jules Item Compendium v2 2026-06-23.md",
-    "Jules/Pending Review/Second Run 06232026/AEC Jules Setting Bible v2 2026-06-23.md",
-    "Jules/Pending Review/First Run 06222026/AEC Jules Compilation V1 2026-06-23.md",
-    "Jules/Pending Review/Second Run 06232026",
-    "Jules/Pending Review/First Run 06222026",
+    "Jules/Pending Review/MoC Third Run 0623206",
+    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Adventure Generator v2 2026-06-23.md",
+    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules SRD v2 2026-06-23.md",
+    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Bestiary v2 2026-06-23.md",
+    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Unsorted Raw v2 2026-06-23.md",
+    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Item Compendium v2 2026-06-23.md",
+    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Setting Bible v2 2026-06-23.md",
+    "Jules/Pending Review/MoC First Run 06222026/AEC Jules Compilation V1 2026-06-23.md",
+    "Jules/Pending Review/MoC Second Run 06232026",
+    "Jules/Pending Review/MoC First Run 06222026",
     "Jules/Pending Review/Adventure Generator",
     "Jules/Aetherium Codex — Term Lock (canonical registry).md",
     "Jules/Pending Review",
@@ -234,7 +235,6 @@
     "99-Unsorted/Narrative Engine Alpha/1. ÆC Doc 0 Operating Philosophy.md",
     "99-Unsorted/Narrative Engine Alpha/0. ÆC Operating Philosophy Final 1.md",
     "99-Unsorted/Claude alpha v3/1. SRD v3 Combined (2).md",
-    "99-Unsorted/Ætherium Codex/SRD combined/AC_SRD_SpellSentence.md",
-    "99-Unsorted/Ætherium Codex/SRD combined/AC_SRD_v2_01_PrimaMateria.md"
+    "99-Unsorted/Ætherium Codex/SRD combined/AC_SRD_SpellSentence.md"
   ]
 }
