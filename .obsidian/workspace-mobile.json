@@ -169,8 +169,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "94e327450e8961a2",
+  "active": "bf1dbf5acff43611",
   "lastOpenFiles": [
+    "Untitled",
+    "Jules/AGENTS.md",
+    "Jules/TERMINOLOGY.md",
+    "Jules",
     "Claude alpha v3/ÆC Operating System (Compiled Alpha v3).md",
     "Ætherium Codex/items & Materia Alpha v2/AC_EconomicValueSystem.md",
     "AEC Game mechanics/ÆC Isotopes Combined v2.md",
@@ -194,9 +198,6 @@
     "Ætherium Codex/SRD combined/AC_SRD_AttachmentsInsets (1).md",
     "Ætherium Codex/SRD combined/AC_SRD_Isotope_Amendments.md",
     "Ætherium Codex/SRD combined/AC_SRD_v2_07_ArtificePaths.md",
-    "Ætherium Codex/SRD combined/AC_SRD_v2_04_ItemCreation.md",
-    "Ætherium Codex/SRD combined/AC_SRD_ItemCreation (1).md",
-    "Ætherium Codex/SRD combined/AC_SRD_Isotopes_Borderlands.md",
     "Ætherium Codex/SRD combined",
     "Narrative Engine Alpha/AC_Document_0_Operating_Philosophy_Final.docx",
     "Ætherium Codex/ÆC_Planar_Expression_to_Effect_Map.docx",
@@ -205,7 +206,6 @@
     "Alpha draft claude/Executive Summary.docx",
     "Alpha draft claude/Claude raw Gods & Colleges clarified - Political Zoetrope.docx",
     "Alpha draft claude/ÆC_All_Nine_College_Dossiers_v1.docx",
-    "Alpha draft claude/ÆC Combat styles extracted v1.docx",
-    "Alpha draft claude/ÆC_Quest_Generator_Experimental.md.docx"
+    "Alpha draft claude/ÆC Combat styles extracted v1.docx"
   ]
 }
