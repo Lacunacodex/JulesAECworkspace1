@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jules/Scripts/jules_executor.py.md",
+                "file": "Jules/Pending Review/MoC Third Run 0623206/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "jules_executor.py"
+              "title": "Untitled"
             }
           }
         ],
@@ -200,8 +200,17 @@
   },
   "active": "b2c0b32eb842d51c",
   "lastOpenFiles": [
-    "Jules/Aetherium Codex — Term Lock (canonical registry).md",
     "Jules/Scripts/jules_executor.py.md",
+    "Jules/Pending Review/MoC Third Run 0623206/Untitled.md",
+    "scripts/jules_executor.py",
+    "/scripts/jules_executor.py",
+    "/Jules/Pending Review/AIStudios_Executor_Behavior_V1_06232026.md",
+    "Jules/Pending Review/AIStudios_Executor_Behavior_V1_06232026.md",
+    "/Jules/Pending Review",
+    "/Jules",
+    "scripts",
+    "/scripts",
+    "Jules/Aetherium Codex — Term Lock (canonical registry).md",
     "Jules/AIStudios_Sandbox_Behavior_V1_06232026.md",
     "Jules/Scripts",
     "Jules/AIStudios_Executor_Behavior_V1_06232026.md",
@@ -217,24 +226,15 @@
     "Jules/Pending Review/MoC First Run 06222026/AEC Jules Compilation V1 2026-06-23.md",
     "Jules/Pending Review/MoC Second Run 06232026",
     "Jules/Pending Review/MoC First Run 06222026",
-    "Jules/Pending Review/Adventure Generator",
-    "Jules/Pending Review",
     "Untitled.md",
     "03-Production-and-Assets/Placeholder 3.md",
     "02-Societies-and-Factions/Placeholder 2.md",
     "01-Unified-Mechanics/Placeholder 1.md",
     "00-Meta/Placeholder.md",
     "99-Unsorted/Claude alpha v3/ÆC Operating System (Compiled Alpha v3).md",
-    "99-Unsorted",
-    "03-Production-and-Assets",
-    "02-Societies-and-Factions",
-    "01-Unified-Mechanics",
     "Jules/TERMINOLOGY.md",
     "99-Unsorted/Ætherium Codex/items & Materia Alpha v2/AC_EconomicValueSystem.md",
     "99-Unsorted/AEC Game mechanics/ÆC Isotopes Combined v2.md",
-    "99-Unsorted/AEC Game mechanics/AC_Document_1_Unified_Architecture-1.md",
-    "99-Unsorted/File_notes_01_Annotations_SoulStone.md",
-    "99-Unsorted/Narrative Engine Alpha/1. ÆC Operating System (Compiled Alpha v1).md",
-    "99-Unsorted/Narrative Engine Alpha/1. ÆC Doc 0 Operating Philosophy.md"
+    "99-Unsorted/AEC Game mechanics/AC_Document_1_Unified_Architecture-1.md"
   ]
 }
