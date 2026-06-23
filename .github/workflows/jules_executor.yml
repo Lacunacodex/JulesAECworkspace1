@@ -1,0 +1,37 @@
+name: Jules Executor Pipeline
+
+on:
+  push:
+    paths:
+      - 'Pending Review/**' # Only boots up when you add files to this folder
+
+jobs:
+  run-executor:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows Jules to push the finished wikis back to your vault
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Gemini Library
+        run: pip install google-generativeai
+
+      - name: Run Executor Jules
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/jules_executor.py # The path to your Python script
+
+      - name: Commit and Push Structured Files
+        run: |
+          git config --global user.name "Jules Automaton"
+          git config --global user.email "jules@automation.local"
+          git add Structured_Inventory/
+          git commit -m "Jules: Processed raw files into machine-accessible inventory." || echo "No changes to commit"
+          git push
