@@ -1,0 +1,6 @@
+# Ignore AI Studio Sandbox instructions to prevent tracking in Master Repo
+*AIStudios_Sandbox_Behavior_V1_06232026*.md
+
+# Ignore environment variables and API keys
+.env
+
