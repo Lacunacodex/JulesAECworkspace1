@@ -1,0 +1,1052 @@
+# Concept Map MoC
+
+This document organizes and identifies concepts found in the unsorted materials.
+
+## Entities
+
+- **Creature Benefit**: Food, shelter, protection, social structure
+- **Now uses outdated creature type names**: "Abhorrent" → Anomalous, "Interstice" → Interstitial per Alex confirmation.
+- **Fire-aligned creatures**: Rune of intense cold, water-infused walls, chill auras
+- **Artificially created beings**: golems, constructs, magi-tech automata, clay-and-rune creations. Intentionally designed rather than evolved.
+- **Three generations of Fey**: Elder, Lost, Newborn (narrative immune response)
+- **Symbiotic creatures**: Isolation chambers to prevent host-seeking behavior
+- **Spell-casting creatures**: Magical damping runes, anti-magic fields
+- **Incorporeal creatures**: Binding circles, ectoplasm-reactive barriers
+- **Elder Fey**: Story-ghosts from Setting A. Formed from surviving narrative echoes of the ancient sword-and-sorcery world. They embody the myths, legends, and parables of the world that was. They remember (or believe they remember) a purer, older reality.
+- **Lost Fey**: Story-ghosts from Setting B. Formed from fragmented memories of the destroyed magi-tech/WWII-era reality. They are alien, out-of-place, and often deeply confused — creatures born from stories about a world that no longer exists.
+- **Creature Benefit**: All utilitarian benefits + emotional security, companionship
+- **Newborn Fey**: Born from the stories of current Tessera. Dynamic, adaptable, connected to the present. They embody the new dualistic reality — the messy, vibrant fusion of what came before.
+
+## Attributes/Skills/Defenses/Pools
+
+### Physical Pillar
+
+- **Protection**: Physical permanence. Structural hardening toward terminal stability. Soak increase through mineralization. THE physical permanence expression of the Synod — the material becomes stone-like and stays that way.
+- **Senses**: Reading the record embedded in physical material. Psychometry. Object reading. "What happened to this bone? Who carried this blade? What did this wall witness?" The primary expression.
+- **Move Object**: Pressure-driven physical manipulation. Lifting, pushing, dragging through fluid-pressure mechanics. The Forge's telekinesis analog — not mental force but mechanical force transmitted through fluid.
+- **Enhanced Trait**: At specialized application, sustained mechanical assistance providing consistent physical output enhancement. Not burst power (that's Steampunk F-10) — consistent, reliable, sustained assistance. The power suit that works all day.
+- **Create**: Electrochemical energy storage devices. Batteries, power cells, capacitors. The physical objects that store and release electrical energy.
+- **Feature**: Dual-purpose material. Physical structure AND information storage. The relic that IS the document. Every Mortis Aevum ledger bone is an Ossuary expression.
+- **Communication**: The possessing spirit communicating through the vessel's voice and body. Speech, gesture, and expression controlled by the possessor.
+- **Insubstantial**: Physical diffusion into gaseous state. At high Stage, the Gas expression disperses the subject's physical substance. Still matter, just spread across a volume. Passes through solid barriers because gas does.
+- **Elongation**: Tendril extension. Vines and grasping appendages reaching beyond normal body plan limits.
+- **Create**: Hard-light constructs. Physical objects made from geometrically structured electrical energy. Temporary but precise. The holographic projection made tangible.
+- **Weaken**: Targeted degradation. Physical capability reduced through accelerated aging of specific tissues, structures, or materials. THE precision entropy expression. Stage 1 = years per round (surgical precision). Stage 3 = hours per round. Stage 5 = seconds per round.
+- **Concealment**: The Hollowed target becomes unremarkable. Not invisible — uninteresting. Nobody notices them because there is nothing to notice. The grey person in the grey room. Social invisibility through absence of presence.
+- **Senses**: At specialized application, predictive analysis. The Clockwork computing future physical states from current conditions. Not prophecy (P-10 sees what WILL happen through fate) — Clockwork calculates what SHOULD happen through physics. When both agree, certainty approaches absolute.
+- **Environment**: At high Stage, the probability field destabilizes local reality. Physical constants fluctuate. Gravity varies. Distance becomes approximate. Color shifts. The universe hasn't committed to specific rules in this area.
+- **Bond Strength**: Very strong; creature feels handler's death as psychic pain; forced separation causes psychological damage
+- **Physical Restraint**: Rune-charged chains, anti-magic cages, magical locks
+- **Illusion**: At specialized application, projecting the recorded experience into the physical environment so observers experience it as happening around them. The memory made manifest as environmental overlay. Historical recreation.
+- **Environment**: At high Stage, the Wraith's emotional record alters the physical environment. The room gets cold because the Wraith died cold. Walls weep because the Wraith died grieving. Candles extinguish because the Wraith died in darkness. The environment becomes the ghost's autobiography.
+- **Affliction**: Reality dissociation. The target cannot distinguish Dream logic from physical logic. They try to fly because it makes narrative sense and fall because physics disagrees. They trust the friendly stranger because the story says to.
+- **Protection**: Physical permanence that also carries informational depth. The item is hard to destroy AND carries meaningful historical record. Double-value material.
+- **Immunity**: At specialized application, physical immunity through absolute mineralization. Complete petrification as protection — nothing can affect stone. The cost is everything else.
+- **Affliction**: Slowed (joint crystallization from moisture in tissue freezing). Restrained (full freeze on wet or water-adjacent targets). Numbness reducing manual dexterity. Frostbite.
+- **Enhanced Trait**: Overwhelming physical capability from impossible size. Strength, mass, reach, and physical presence beyond natural biological ceiling. The enhancement comes from sheer scale.
+- **Affliction**: Fundamental confusion about what is real, possible, and reliable. Worse than Chaos (which is random) — Error is SPECIFICALLY wrong. The target's assumptions about physical law fail at precise, important moments.
+- **Extra Limbs**: Template rewrite producing new body plan elements. Additional appendages from biological restructuring. The organism's architecture edited.
+- **Illusion**: THE Forge's illusion expression. Hard-light projection. Not false perception (that's Palimpsest) — actual light-constructs with geometric structure and physical interaction properties. Visually perfect, structurally real. Indistinguishable from reality to unaided senses.
+- **Funding**: Supported by corporate body + local governance + guild profits
+- **Create**: Empty shells. Physical copies without content. Decoys. Mannequins. The physical replica with no informational or experiential weight.
+- **Enhanced Trait (Might)**: Density enhancing physical force at specialized application. Stone-fist. Earth's weight behind a blow.
+- **Special Trait**: Can manifest as solid or partially-transparent. Can affect objects from planar space without physical contact.
+- **Protection**: Physical defense. Structural reinforcement. Soak increase. The single most direct physical defense expression in the entire system.
+- **Extra Limbs**: Template rewrite producing new body plan elements. Additional appendages grown mid-combat as tactical response.
+- **Feature**: Logical impossibility as persistent state. The Paradox item exists as proof that the rules can be broken — its mere existence undermines certainty in physical law. Philosophical weapon.
+- **Swimming**: Adaptive aquatic form. The Chimera grows fins, gills, or streamlined body plan in response to aquatic environment. Reactive evolution for water.
+- **Move Object**: Hydraulic force multiplication. THE mechanical force amplifier. Directed fluid pressure producing controlled physical force at distance. Lifting, pressing, crushing through fluid dynamics.
+- **Affliction (control)**: THE biological mind-control expression. Parasitic override of target's motor function. Compulsion through biological network colonization. The host's body is piloted by the parasite's network.
+- **Protection**: Empty shell providing physical defense independent of any occupant. Autonomous armor. The suit that fights because the body inside is irrelevant.
+- **Immunity (information)**: Information locked in Ossuary expression cannot be altered or forged. The physical material IS the authentication — you can't forge the molecule.
+- **Enhanced Trait**: The possessing spirit's capabilities expressed through the vessel's body. Borrowed operational competence. The master swordsman's ghost fighting through an untrained body still fights like a master.
+- **Senses**: Provenance reading. Authentication. "Who held this? What did it witness? Is this genuine?" The physical object providing its own chain of custody. THE authentication expression.
+- **Environment**: Radiant heat field. Temperature increase in an area without physical fire. Heat shimmer affecting visibility.
+- **Enhanced Trait (redirected)**: The host's physical capabilities redirected toward the parasite's goals. Enhanced performance through override rather than genuine enhancement. The host fights harder because it's no longer in control.
+- **Bond Strength**: Weak; creature may leave if better offer appears
+- **Weaken**: Reliability degradation of all systems in range. Nothing works consistently. Equipment, magic, and physical capability become unreliable. The certainty that the floor will hold is no longer a certainty.
+- **Communication**: Magical infrastructure networking. Items connected through Mana-Punk expression share information and charge. The Deepguard relay network's physical medium — not the data (that's F-03 Data) but the carrier.
+- **Senses**: Spectral perception. The Wraith sees and hears without physical organs. Perception through projected identity — it perceives whatever its projected presence encompasses.
+- **Feature**: Geometric light architecture. Persistent structured illumination. The neon sign. The laser grid. Light that has physical geometric structure.
+- **[Supernatural]**: Innate magical ability tied to the body. Future mutation catalogue candidate.
+- **Environment**: At specialized application, terrain alteration through hydraulic force. Hydraulic mining. Pressure washing. Directed fluid force reshaping physical space.
+- **Weaken**: Metabolic hijacking. The host's biological resources redirected to the parasite's purposes. Physical and mental degradation as biological priority is stolen.
+- **Affliction**: Accelerated aging conditions. Frailty, brittleness, organ degradation. Joint failure. Bone density loss. Time applied as a weapon against specific body systems.
+- **Environment**: At high Stage, the physical environment reflects the underlying truth. The walls show what's behind them. The ground reveals what's buried. The sky shows what's watching. The Smoothing Effect's failure mode — the Great Lie showing its seams.
+- **Affliction (identity)**: THE identity suppression expression. Emotional blankness. Memory accessibility suppressed. Agency reduced. The target is present, physically functional, but experientially absent. Nobody's home.
+- **Substrate contribution**: how the material's physical properties modify the expression (hardness feeding duration, tensile feeding damage, density feeding range, etc.)
+- **Bond Strength**: Moderate to strong; creature will resist separation
+- **Feature**: Flaw detection. The ability to find structural weaknesses, logical contradictions, and exploitable gaps in any system — physical, magical, social, institutional. THE vulnerability assessment expression.
+- **Create**: Hard-light construction. Barriers, shields, furniture, tools, structures made of persistent shaped electrical light. Physical properties (Soak, HP). Shaped to specification. Duration limited by power.
+- **Feature**: Hollow physical permanence. Container. Housing. The vessel designed to hold something that isn't currently present. The empty box that preserves its shape.
+- **Morph**: Uncontrolled form change. Random biological restructuring without direction or template. The body reshaping itself with no plan.
+- **Senses**: The possessing spirit perceives through the vessel's physical senses. Everything the body sees, hears, and feels, the possessor experiences.
+- **Create**: Producing Reliquary-grade authenticated objects. Embedding specific historical records into physical material permanently. The basis of Deepguard contract seals and Mortis Aevum certification.
+- **Morph**: Rapid physical restructuring. Growing new biological weapons mid-combat. Shifting body plan in response to threat assessment. The primary combat expression.
+- **Immunity (information)**: The embedded record cannot be forged or altered. The physical encoding IS the truth. Counterfeiting a Reliquary requires replicating the molecular structure of the original event, which is not possible.
+- **Feature**: Force multiplication as permanent tool property. Items with Hydraulic expression multiply the user's physical output for all leverage-based tasks. Shove and drag automatically succeed on normal hit.
+- **Concealment**: Steam as visual obscurant. Reduces both physical and magical line of sight.
+- **Morph**: Directed physical transformation. Changing the organism's template, not just its current state. The rewrite is permanent if it reaches Calcification. THE directed mutation expression.
+- **Nullify**: At specialized application: dissolving the physical substrate of magical constructs or enchantments. If the item carrying the enchantment dissolves, the enchantment has nothing to inhabit.
+- **Physical changes**: Color shift, new appendages, crystalline growths, scale development
+- **Immunity (information)**: Absolute information lock. Records sealed by the Record are immune to alteration by any means short of physical destruction of the medium. Legal permanence.
+- **Environment**: Reality instability field. Physical constants fluctuate. Magical effects behave unpredictably. Rules change mid-application. THE wild magic zone expression. The area where the GM rolls on the random table because the universe did.
+- **Nullify**: At specialized application, the active dissolution disrupts ongoing magical processes by degrading their physical or structural substrate. The enchantment crumbles because the item crumbles.
+- **Somatic**: Physical motion integrated into combat. Blocked by immobilization.
+- **Affliction (identity override)**: THE possession expression. The Spectral identity displaces the vessel's native identity and assumes control of the physical body. The body acts according to the possessing spirit's intent.
+- **Communication**: At specialized application, electrical signal transmission through physical infrastructure. The telegraph. Information carried by current through directed channels.
+- **Environment**: At high Stage, the Haunt's emotional record alters the physical environment. The room gets cold because the Haunt died cold. Walls weep because the Haunt died grieving. Candles extinguish because the Haunt died in darkness. The environment becomes the ghost's autobiography.
+- **Create**: Physical objects. Stone, earth, structural elements. Walls, barriers, foundations, buildings. The basis of all construction.
+- **Affliction**: Calcification and crumbling. Material turning to ash and powder. The target's physical structure actively deteriorating toward its most inert form. Not aging — completing.
+- **Enhanced Trait (physical)**: Metabolic acceleration. Temporary physical superiority. Strength, speed, reflexes, endurance heightened. THE primary biological performance enhancement in the system.
+- **Immortality**: At specialized application, serial possession as a form of undeath. The spirit persists by moving between vessels as each one expires. The body is disposable; the identity is permanent.
+- **Immortality**: Reanimation at high Stage. The galvanic principle can restart biological function in recently deceased tissue. Not resurrection (the soul is elsewhere) — physical reactivation. The body restored to operational capacity through electrical threshold restoration. The basis of soul-drive technology and the theoretical foundation of the Harkness Engine.
+- **Concealment**: The forgotten thing cannot be found by searching memory or record. If nobody remembers a door exists, the door is effectively hidden. Amnesia as concealment through erased knowledge.
+- **Immortality (identity)**: THE identity-beyond-death expression. The experiential self persists as projected spectral presence after biological death. Not physical resurrection — the person survives as perception, emotion, and will without body.
+- **Affliction**: At high Stage, imposing the Husk state on a living target. Separating experiential identity from physical body temporarily. The body continues its functions but the person is absent. Lights on, nobody home.
+- **Environment**: At high Stage, the Dream reshapes the physical environment to match narrative expectations. The haunted house BECOMES haunted. The dark forest BECOMES dangerous. The safe haven BECOMES safe. Reality follows the script.
+- **Protection**: At specialized application, fated defense. The Loop has Resolved that the target is not harmed by the next triggering event — so they aren't. Not physical resistance; narrative immunity.
+- **Create**: Mechanical housing and infrastructure. The physical architecture that gives other expressions direction. Pipes, conduits, pressure vessels, furnace structure. The hardware layer of any technological process.
+- **Enhanced Trait**: Force amplification through hydraulic augmentation. The power loader. Physical capability multiplied by mechanical advantage through directed fluid pressure.
+- **Weaken**: Targeted degradation. Physical capability reduced through accelerated aging of specific tissues, structures, or materials. THE precision entropy expression. Stage 1-4 = years per round (surgical precision). Stage 5-7 = hours per round. Stage 8-10 = seconds per round.
+- **Senses**: Perception through narrative lens. The Dream reveals what matters to the story rather than what physically exists. Clues become visible. Red herrings fade. The important door is the one that glows.
+- **Weaken**: Structural collapse. Physical capability degrading because the material is actively settling toward terminal stability. Strength fades. Density drops. Integrity crumbles.
+- **Senses**: Spectral perception. The Haunt sees and hears without physical organs. Perception through projected identity — it perceives whatever its projected presence encompasses.
+- **Luck Control**: Mechanical determinism. Not fate manipulation — CALCULATION. The Clockwork computes outcomes by running physics forward with perfect precision. The wielder can declare one action per encounter as "inevitable" because the Clockwork has already calculated the exact sequence of physical events needed. The result is predetermined not by magic but by engineering. The Chronosynclastic Institute's philosophical foundation: probability is just insufficiently computed physics.
+- **Enhanced Trait**: At specialized application, conviction-enhanced performance. The character succeeds not through physical capability but through narrative weight. The hero's moment. The mother lifting the cart off her child.
+- **[Mundane]**: No magical component. Physical/mental training only.
+- **Weaken**: Systemic debilitation from active infection. Physical capability degradation as the body fights the disease and loses.
+- **Weaken (drain)**: THE energy/vitality drain expression. The Shadow sustains its Spectral identity by consuming vitality from the living. Physical energy, mental clarity, emotional will, spiritual integrity — the Shadow can drain any of these.
+- **Palimpsest (W5)**: P-01 through P-16. The Arbiter. Phase wheel: Echo(Solid)/Veil(Liquid)/Probability(Gas)/Glitch(Plasma). 16 isotopes + effect summary. "Produces no physical effects on its own — determines WHICH of the possible outcomes actually occurs."
+- **Physical Cages**: Reinforced, rune-lined holding cells with multiple locks
+- **Enhanced Trait**: Physical enhancement that sustains itself. The Fauna boost doesn't expire as quickly because Flora provides ongoing fuel through biological self-sufficiency.
+- **Nullify**: THE physics-exploit expression. Finds logical flaws in physical law, magical construction, or structural integrity and makes them actionable. The lock was always openable — Error shows how. The wall was always passable — Error shows where. The ward always had a gap — Error finds it.
+- **Concealment**: The primary expression. Obscurement of both physical sight and magical detection simultaneously. The fog jams scrying as effectively as it blinds eyes.
+- **Feature**: Self-authenticating material. The Reliquary cannot be forged because the physical composition IS the record. Molecular-level truth embedded in matter.
+- **Insubstantial**: Identity projected without physical body. Not diffused matter (that's Borderlands Gas) — no matter at all. The spectral form passes through physical barriers because it has no physical substance to be stopped. Different mechanism from B-13, similar mechanical output.
+- **Create**: Physical artifacts with embedded record. Making items that carry their own history in their molecular structure. Self-authenticating objects.
+- **Enhanced Trait**: Adaptive physical enhancement. The enhancement shifts to match the current situation rather than being a fixed boost. Fighting a strong opponent? Grow stronger. Fighting a fast one? Grow faster.
+- **Protection**: At specialized application, hard-light barriers providing physical defense. The energy shield. Stage 3: 10-ft cube constructs with Soak 2 and HP 20. Shapeable as armor, barriers, or terrain.
+- **Create**: Mud and clay constructs. Physical objects formed from the cohesive medium. Adobe, brick, ceramic when dried/fired.
+
+### Social Pillar
+
+- **Senses**: THE truth-behind-construction expression. Reveals constructed realities, Chiaroscuro glamours, Veil-expression coverings, social facades, institutional fictions, and any form of presented-reality-versus-actual-reality. Shows what IS behind what is presented. Unlike Horror (which forces uncomfortable truth), Simulation reveals MECHANISM — how the construction works, not just that it exists.
+- **Feature**: Emotional armor at low Stage and willingly applied. Insulation against emotional manipulation, psychological attack, and social pressure. The cost is feeling nothing. Some Deepguard operatives and Mortis Aevum Chirurgeons use mild Hollow compounds professionally to maintain clinical detachment.
+- **Variable**: Conviction Variable. Genuine belief determines the output. The practitioner's conviction about what SHOULD happen influences which effect manifests. Unreliable in the opposite direction from Casino — biased by the heart rather than random.
+- **Illusion (inverse)**: Revealing the seams in constructions. Not creating illusions — unmasking them. Showing where the glamour stitches are. Where the social facade has gaps. Where the institutional narrative contradicts observed fact. The debugging tool.
+- **Senses (negative)**: The Hollow effect dampens the target's own emotional and social perception. They can't read social cues. Can't feel empathy. Can't recognize emotional significance. The world becomes flat.
+- **Affliction**: The persistent environmental cost. Smell of oil and exhaust. Social penalty in refined company. Environmental contamination in sustained deployment. The price of industrial endurance.
+- **Magical Ley Lines**: Less common but stable sources. Some scholars hypothesize a lost plane of magic—they're not entirely wrong. The Planar Switchboard's influence leaks raw potential through the ley lines. **Note:** The two gods of magic have no access to the Switchboard; they are sustained by the leakage itself.
+- **Feature**: Inevitability. Actions taken under Prophecy's influence have a quality of certainty. They don't feel improvised — they feel like they were always going to happen exactly this way. Confidence from determinism.
+- **Far East snake-like people**: also Lacunae-status
+- **Feature**: Perfect poker face. The user's true intent is hidden behind a Gambit field. Social combat advantage through genuine indeterminacy rather than skilled deception.
+- **Specialized Counter-Rituals**: If a creature shows signs of runaway planar influence, perform binding rituals that lock specific mutations in place.
+- **Feature**: Collective organization. Task distribution. Efficiency through role specialization (workers, soldiers, scouts, queens). Social structure as biological fact.
+- **Theodicy**: why the consequence machine fails good people; engine's primary fuel
+- **Feature**: Perfect poker face. The user's true intent is hidden behind a Gambit field. Enhanced social combat through genuine indeterminacy rather than skilled deception.
+- **Secondary/Tertiary Planar Influences**: Additional planar forces shape the creature further. Rare creatures influenced by 4+ planes are unpredictable and dangerous.
+- **Nature**: Eusocial collective; individual Vespidans are mildly sapient, but colony mind is highly intelligent
+- **Affliction**: Temporal disorientation. The target cannot distinguish past from present. They interact with furniture that no longer exists. They dodge attacks from wars that ended centuries ago. They respond to people who died generations back.
+- **Counter-Reagent Application**: Administer specific Planar Elements (often opposing the creature's primary influence) to prevent further drift. Fire-exposed creatures get cold-aligned essence to stabilize. Law-aligned creatures get chaos-aligned catalysts.
+- **Primary Planar Influence**: Affected most strongly by one plane (fire, law, chaos, death, etc.). Shapes their resistances, abilities, and philosophy.
+
+### Mental Pillar
+
+- **Mind Reading**: At specialized application, the Whispers reading a target's knowledge and adding it to the propagating archive. The information drain. What you know is now what everyone knows.
+- **Weaken**: Knowledge degradation. Skill loss. Competence erosion. The target becomes less capable as their experiential record is consumed. Expertise dissolves.
+- **Operations**: Long-term contracts, breeding programs, research projects, strategic planar breach response
+- **Ability acquisition**: Elemental breathing, new magical resistance, new special attack
+- **Internal**: No external tells. Blocked by emotional suppression/mental disruption.
+- **Weaken**: At specialized application, exhaust and combustion byproducts as environmental degradation. Pollution. Corrosive exhaust. The industrial cost.
+- **Alchemists / Mutation Chasers**: legitimate researchers vs. uncontrolled self-experimenters
+- **Comprehend**: Pattern recognition. The Crystal identifies, categorizes, and organizes patterns in data, language, and magical structure. Translation and decryption through geometric analysis rather than linguistic knowledge.
+- **Feature**: THE mechanical reliability expression. Never jams. Never misfires. Never requires clearing malfunctions. The Engine works because working is its nature. THE fundamental Forge guarantee — the item functions as designed, every time, without exception.
+- **Special Trait**: Can reshape themselves; can access planar memory (knowledge of events they never witnessed); partially immune to reality-based restrictions
+- **Senses**: Passive information reception. You don't seek the Whispers — they find you. Knowledge arriving unbidden in the mind of anyone within range. Revelation without request.
+- **Purpose**: Research, creature analysis, material processing
+- **Environment**: At high Stage, the Aether-Tech field provides pressure immunity and atmospheric protection. Functions as environmental suit in hostile conditions. The spacesuit principle.
+- **Environment**: At high Stage, historical environmental conditions partially reassert. Temperature, light, atmosphere, and seasonal conditions shift toward historical norms. Not fully tangible (that's Haunt at high Stage) but environmental context changes.
+- **Environmental Shielding**: Create rune-inscribed containment cages customized to the creature's type:
+- **Weaken**: Psychological defense erosion. The certainties that sustain normal function dissolve. Assumptions fail. Worldviews crack. The target's mental model of reality is degraded toward the true model, and the true model is less functional for daily life.
+- **Senses (negative)**: Anti-perception specifically targeting knowledge and information. Scrying or divination contacting the Censor returns blank. Archival queries return "access denied."
+- **Function in Operations**: Processes harvested materials into usable form; contributes findings to college research
+- **Isotope**: the adjective (subtype, one of 104 in the Elemental Cards)
+- **Feature**: THE energy storage expression. Item battery capacity doubled. Recharge rate doubled. Passive recharge of nearby compatible items. The fundamental power source for all Powered items in the system. Without Battery expression, there is no Kan-tech civilization.
+- **Origin**: Emerged from overlapping void + knowledge planes. Creatures that touched the edges of the lost plane of magic.
+- **Communication**: Self-propagating information. Knowledge that actively seeks hosts and transmits itself. The rumor that spreads without anyone choosing to spread it. THE "viral information" expression.
+- **Value to Guilds**: Invaluable for research; dangerous to capture; nearly impossible to control
+- **2. Elemental Cards Alpha v1**: NOT in project file directory but IS searchable via project_knowledge_search (as "Combined ÆC Elemental Cards Alpha v1.docx"). Contains cross-planar isotope combinations AND political alloy combinatorics.
+- **Affliction (area)**: Airborne, contact, or fluid-borne pathogenic effect saturating an area. Environmental biological hazard.
+- **Enhanced Trait (mental)**: At specialized application, direct access to stored knowledge temporarily enhancing the user's effective expertise. Not learning — accessing the Data crystal's stored competence. The exam cheat sheet as magical item.
+- **Tile-set grammar**: Infiltration → Transit → Choke Point → Objective → Extraction with weighted environmental blending (60/30/10)
+- **Value to Guilds**: Extremely valuable for research; sapient contracts for specialized work
+- **Sentient**: Self-aware, capable of basic thought and simple emotions. Can recognize individuals, remember past interactions, communicate simple ideas. Examples: intelligent animals, some humanoid creatures of limited intellect.
+- **What**: A magical link between handler and creature's mind. Handler can sense creature's location, emotions, and basic thoughts. Creature can communicate telepathically with handler.
+- **Affliction**: THE logic trap expression. The target confronts an unresolvable contradiction that their cognition cannot dismiss. Logic-sensitive entities (constructs, certain ordered undead, mathematical magical constructions, highly systematic minds) take ACTUAL DAMAGE from the paradox. Others experience confusion, decision paralysis, and existential vertigo.
+- **Affliction**: Adaptive resistance compounds at specialized application. The Sylvan organism produces counter-agents to environmental threats, which can be harvested as biological antidotes.
+- **Nullify**: Information suppression. THE classification expression. Blocks access to specific records, knowledge, or archived data without destroying the underlying content. The information still exists — it just can't be reached.
+- **Function in Operations**: Holding area for captured creatures pending transport to buyer or research facility
+- **Mindless**: No self-awareness. Acts purely on magical automation or base reflex. Examples: summoned swarms, enchanted objects, true zombies.
+- **Weaken**: Fidelity loss. Reliability degradation. Things that were certain become approximate. Precise measurements become estimates. Detailed plans become vague impressions. Competence erodes as the knowledge supporting it degrades.
+- **Affliction**: Information overload. Being bombarded with self-propagating knowledge. Compulsive knowledge-sharing — the receiver becomes a transmitter, unable to stop telling others. Madness from knowing too much at once.
+- **Enhanced Trait (mental)**: At specialized application, the Crystal processing field enhancing cognitive efficiency. Not making the user smarter — making their existing thinking more organized, faster, and less prone to error.
+- **Senses**: Historical perception given priority over current perception. Useful for research but dangerous in combat — you see terrain, weather, and conditions as they were, not as they are.
+
+### Metaphysical Pillar
+
+- **Uses**: Powering artifacts, crafting magical weapons, enhancing spells
+- **Magical Component**: **YES—requires ritual magic and both parties' magical signature**
+- **Equipment**: Dissection tables, magical analysis tools, containment vats, sample storage
+- **Create**: Precision alchemical products. Pharmaceuticals, potions, refined magical compounds. The output of the most precise chemical processing possible.
+- **Spell Combat integration**: 🔧 How does casting + fighting in the same turn work at the system level? Channeled Strike (Magus extraction) provides the weapon-delivery path. But what about casting a non-touch expression + making a weapon attack in the same round? This is the unresolved action economy question.
+- **Purpose**: Healing supplies, poisons, magical materials requisitions
+- **ESL**: Effective Spell Level. Final Rank = BER + Additives − Subtractives, capped by min(Effect Tier, Isotope Tier, Mastery).
+- **Environment**: Dead zone creation. No biological, alchemical, mechanical, or magical process functions within radius. The localized heat death.
+- **The Palimpsest Dust**: Harvested from the edges of the lost plane of magic. Creatures and objects infused with this dust exist outside the normal confines of fate and take no penalty or issues with planar switchboard interactions. Extraordinarily rare.
+- **Communication**: Chemical signaling through airborne compounds. Plants communicate through volatile organic compounds in reality — in Tessera this is a deliberate magical mechanism.
+- **Isotope and its level**: what planar character and how intensely
+- **Wildcat Magic Users**: folk traditions predating the colleges
+- **Consciousness Suppression**: Spells that keep the creature unconscious for extended periods
+- **Feature**: Information permanence. Anything encoded in Record expression cannot be altered, forged, or magically modified. The Sepulchral seal. Deepguard contracts. Soul ledgers.
+- **Nullify**: Illusion-breaking. Strips glamours, disguises, false presentations, and constructed narratives by identifying and highlighting their constructed nature. Not dispelling through force — revealing through analysis. Once revealed, the construction's Suspended state accelerates toward collapse.
+- **What**: Metals infused with planar resonance (crystalline iron, shadow-silver, void-steel)
+- **Communication**: At specialized application, holographic communication. Visual messages shaped in light. Remote visual presence. The video call as magical technology.
+- **Environment**: THE hostile instability expression. The area is dangerous. Things WILL fail. Structures WILL break. Spells WILL misfire. But WHAT fails, WHEN, and HOW are completely unpredictable. The perimeter defense made of pure unreliability.
+- **Feature**: Self-sustaining spectral presence through ambient ætheric saturation. The Haunt does not require fuel, feeding, or external energy source. It exists because its experiential identity has enough weight to persist on ambient magical field alone.
+- **Function in Operations**: Reduces supply costs; provides fresh provisions for teams; rare planar plants for alchemy
+- **Senses**: At specialized application, detecting magical flow through infrastructure. Reading the power grid. Sensing where charge is flowing, pooling, and blocked. Kan-tech diagnostics.
+- **Nullify**: At specialized application, focused disruption. The Lens concentrating the Forge's organizational energy into a beam that disrupts a specific magical effect at range — surgical counter-magic rather than area suppression.
+- **Example**: Whispersilver (ore from a planar bleed of law + void planes; usable for anti-magic containment)
+- **Example**: Catalyst Sands (the most common and valuable form; enabled industrialization of magic)
+- **Growth**: THE scale-breaking expression. Size increase beyond what biology normally permits. The creature that shouldn't be that big but is. Breaking the square-cube law through magical biology.
+- **Senses**: Light production at range. Radiance. Illumination as a ranged field rather than a point source. The basis of all "light" spells that aren't biological.
+- **Communication**: The record accessible to trained readers. The bone speaks its history to Chirurgeons and archivists without requiring magical tools. The material IS the message.
+- **Containment**: The creature is magically compelled to obey the contract. Escape is possible but incurs magical penalties.
+- **Senses (negative)**: Suppresses existing senses and magical detection. Anti-perception field.
+- **Nullify**: At specialized application, breaking morale effects, comfort enchantments, and false confidence. If a spell or effect maintains psychological stability through pleasant illusion, Horror strips it.
+- **Protection**: Containment. Reduces Volatility of installed components by Formation Stage value. The Channeled infrastructure holds the component's natural planar assertion in check.
+- **Nullify**: Anti-reliability. Disrupts any ongoing effect that depends on consistent function. Maintained spells, active enchantments, and mechanical processes all subject to random failure because the substrate they depend on is unreliable.
+- **Danger**: 8-10 (unpredictable; can manipulate planar laws)
+- **F-07 Mana-Punk**: Liquid magic in crystal pipelines. Battery efficiency, charge sharing. Kan-tech infrastructure backbone.
+- **Uses**: Crafting magical armor, weapons, Concord Crystals, runework
+- **Comprehend**: Reading planar expressions at range. The analytical instrument. The Analyzer's primary tool at institutional grade.
+- **Special Features**: May include animal pens for livestock, fish ponds
+- **Authority**: Can accept local contracts, issue temporary permits, manage day-to-day operations
+- **Feature**: THE battery efficiency expression. Battery drain reduced per tick. Charge pools shareable between connected items. Magical conduit infrastructure enabling distributed power. The backbone of Kan-tech civilization.
+- **Prima Æther**: the ambient magical field; the ongoing byproduct of the Calamity's cosmic neutralization reaction between the Primal Current (Anima's Law) and the Structured Current (Kanon's Law).
+- **Function**: A sapient creature agrees to the terms (or is magically compelled). Violation of terms causes magical backlash (pain, weakened abilities, magical exhaustion).
+- **F-08 Galvanism**: Electricity through fluid. Reanimation science. Three distinct healing mechanisms. Soul-drive technology foundation. Harkness Engine theoretical basis.
+- **[Infused]**: Mundane action enhanced by magical energy (ÆP cost).
+- **Variable**: The meta-Effect. Casino expression provides a pool of unrealized potential that can manifest as any other Effect temporarily. The slot machine of magic — pull the lever, something happens, you don't control what. The most versatile and most uncontrollable expression.
+- **What**: Organ-like structures containing concentrated planar force
+- **Affliction**: The Fey bargain. Agreements made under Fey Logic are binding through narrative inevitability, not magical compulsion. Breaking a Fey promise doesn't trigger a curse — it triggers narrative consequence. The universe writes the punishment into the story.
+- **Senses**: Perceiving flaws and contradictions. Error reveals where things are already wrong. Structural weaknesses in buildings. Logical weaknesses in arguments. Gaps in magical wards. Contradictions in testimony.
+- **(B)**: Book of Shadows (existing magical talent document)
+- **Nullify**: Total process arrest. THE ultimate counter-magic expression. Nothing functions near Oblivion — magical, biological, mechanical, chemical. All process ceases. Every active effect is suppressed.
+- **Catalyst Sands**: Crystalline particles from areas of intense, prolonged planar bleed. Color and properties vary by source plane (red from fire planes, grey from law planes, etc.). Universal reagent that transmutes into magical components. Enabled mass production of magical items and replaced the need to hunt rare components.
+- **Weaken**: Degrading the stability of any ongoing effect, enchantment, or maintained spell in range. The magic starts glitching because the rules it depends on are fluctuating. Sustained effects degrade. Continuous enchantments stutter.
+- **What**: Plants that grew in bleed zones; retain planar properties
+- **Nullify**: At specialized application, cutting a target's connection to magical infrastructure by blocking the Mana-Punk channels they depend on. Disconnection as disruption.
+- **How it Starts**: Ritual bonding (requires both parties' willing participation or magical compulsion); typically only attempted with high-intelligence creatures
+- **Capability**: Necropsy, genetic study, planar element refinement
+- **Handling Hazardous Flesh**: Some creature organs, blood, or tissues remain magically active and dangerous. These are harvested with protective gear and stored separately.
+- **Nature**: Partially incorporeal; exist partially in material plane and partially in planar space
+- **Magical Component**: None required (purely behavioral)
+- **Nullify**: Magical detection interference. Scrambles targeting systems and divination. The "jamming" expression — Vapor doesn't hide the target, it corrupts the detection method.
+- **Magical Component**: Can be enhanced with magical rituals (Enchantment magic)
+- **Senses**: At specialized application, reading the karmic state of a target. Perceiving accumulated debt or credit. "This person has done terrible things" as a literal magical read, not a moral judgment.
+- **Create**: Growing biological restraints. Vine ropes, living bonds, biological containment structures. Manacles that grow.
+- **Weaken**: Electrical overload disrupting mechanical and magical systems. Circuit burning. Fuse-blowing. Kan-tech disruption.
+- **What**: Quartz-like formations that trapped planar energy; fine particulate matter
+- **Feature**: Self-sustaining spectral presence through ambient ætheric saturation. The Wraith does not require fuel, feeding, or external energy source. It exists because its experiential identity has enough weight to persist on ambient magical field alone.
+- **Feature**: Cosmic balance sensing. The wielder intuitively knows whether an action will generate positive or negative karmic response. Moral compass as magical instrument. "If I do this, will the universe care?"
+- **Protection**: At specialized application, redirecting incoming magical projectiles. The Lens can refocus incoming directed energy and send it elsewhere. Once per encounter: choose a new target for a projectile targeting you.
+- **Origin**: Emerged from overlapping law + magic planes. Born from concepts made flesh.
+- **Purpose**: Item creation, maintenance, magical and mundane repairs
+- **Nullify**: At specialized application, electrical overload. Flooding magical or mechanical systems with uncontrolled charge. Burning circuits. Disrupting enchantments by overloading their power systems.
+- **Crops**: Vegetables, herbs, possibly planar plants if in bleed zone
+- **F-02 Serum**: Injectable magic crystals. Subdermal augmentation. Foundation of Kan-tech implants.
+- **[Magical]**: Learned magical technique. Feeds Tₘ in ÆP pool formula.
+- **Communication**: The record accessible to trained readers. Chirurgeons and archivists can read Reliquary objects through direct examination. No spell required — the material IS the communication.
+- **Affliction**: At Stage 5+. The Viral-dominant axis means prolonged exposure to concentrated V-14 expression triggers Adaptive pressure in nearby organisms. Planar Strain accumulation. The mutagenic edge of intense bioluminescence.
+- **Palimpsest-Touched**: Infused with Dust from the Palimpsest (lost plane of magic). These creatures exist outside normal fate constraints and are immune to planar switchboard penalties. Extremely rare and valuable.
+- **Nullify**: The absence of content suppressing detection. Magical perception targeting the Husk finds nothing to read. Not blocked — genuinely absent. You can't find what isn't there.
+- **Variable**: explicitly bypasses isotope requirements. No planar home.
+- **Structural Irony**: Unity broadcasting restoration comedies about voluntary harmony to a managed population
+- **Affliction**: At Stage 3+. The Viral-dominant axis means prolonged exposure to concentrated V-14 expression triggers Adaptive pressure in nearby organisms. Planar Strain accumulation. The mutagenic edge of intense bioluminescence.
+- **Feature**: Chaos field. Outcomes near Casino are maximally unpredictable. No repeat results. Maximum variance on all rolls. THE wild magic expression.
+- **Move Object**: At specialized application, directed motive force at range. Solar sailing. Planar wind harvesting. The ship that sails on directed cosmic energy.
+- **Scale**: Mechanical and chemical-driven, powered by magical resonance and Catalyst Sands
+- **Nullify**: At specialized application, the rigid geometric structure disrupting chaotic or disorganized magical effects. Order imposed on disorder. The Crystal lattice rejects noise.
+- **Feature**: Unlimited information storage at high Stage. Text, full sensory experience, magical formulae — all stored as electrical pattern in crystal lattice and retrievable on demand.
+- **Uses**: Spell-crafting, potion-making, universal reagent for alchemy, Concord Crystal construction
+- **Senses (negative)**: Degraded perception of fate, probability, and magical signatures. The reader gets information but can't trust its accuracy. False confidence in corrupted data.
+- **Temporary Ward Networks**: Deploy runes that isolate the creature from ambient planar radiation and bleed effects. Create "clean zones" in holding cells.
+- **Chekhov Network**: planar bleed as geographic Chekhov gun
+- **Continued Counter-Reagent Dosing**: Regular application of stabilizing essences to maintain planar equilibrium. Creates a new "set point" for the creature's mutations.
+- **Feature**: Biological plasticity itself as a permanent quality. The organism's template becomes editable. Foundation for the Wildpath Wardens' bio-management discipline.
+- **Anti-Magic Chambers**: Faraday-cage-equivalent containers that suppress the creature's magical abilities
+
+### Unverified / Other
+
+- **Source**: Borderlands, gardens near rift sites, Floraform creature harvests *(Unverified)*
+- **Construction**: the geometry (CP purchases determining target/range/duration, which determines Scope reach) *(Unverified)*
+- **Move Object**: Hydraulic force. Current and flow. Water as motive medium carrying or dragging mass. *(Unverified)*
+- **Feature**: Trap expression. Hazard turns an area into a trap field where specific dangers are unknown until triggered. THE area-denial defense expression for Stormpeak and Wildpath perimeters. *(Unverified)*
+- **Senses**: At specialized application, perceiving paradoxical states in existing systems. "This should not exist. Why does it exist? What contradiction sustains it?" The diagnostic tool for impossible situations. *(Unverified)*
+- **Protection**: Living armor that actively punishes contact. Thorny barrier. Touch the armor, get grabbed. *(Unverified)*
+- **Feature**: Self-sustaining spectral presence through drain. Unlike the Haunt (ambient saturation), Shadow actively feeds. More powerful but predatory — it needs victims to persist. *(Unverified)*
+- **Prolepsis/Analepsis**: Chronosynclastic's structural epistemology *(Unverified)*
+- **Affliction**: Memory suppression at specialized application. The target's memories are censored — still present in the soul record, but inaccessible to conscious recall. Can be reversed by dissolving the Censor compound. *(Unverified)*
+- **Affliction**: Charring without ignition. Desiccation. Sunburn at intensity. Dehydration through radiant exposure. *(Unverified)*
+- **Nullify**: At specialized application, precision counteragent for uncontrolled mutations. The Calibrated selection applied in reverse — identifying and suppressing a specific active mutation pathway. *(Unverified)*
+- **⚠️ FLAGGED**: Placement or design conflict requiring resolution *(Unverified)*
+- **Senses**: every plane offers information through its native channels. *(Unverified)*
+- **Create**: Ice formation at high Stage. Frost can build ice structures from ambient moisture — walls, bridges, terrain features. Temporary but immediate. *(Unverified)*
+- **Settled**: The process completed naturally and the material has reached its most stable state. Obsidian (magma cooled to glass), fossil bone (organic structure fully mineralized), fully oxidized iron (rust — the Synod's claim on iron completed). Settled materials are stable, predictable, and resistant to change. The Synod has already claimed them. Working a Settled material into something new means fighting that claim — applying enough Forge processing to overcome the stability the material has achieved. Settled materials have the highest crafting resistance but the most predictable behavior. *(Unverified)*
+- **Nullify (memory)**: THE memory destruction expression. Specific memories targeted and degraded at the information level. Not suppressed (still there but inaccessible — that's Censor). Actually damaged. The memory is being eaten. *(Unverified)*
+- **(S)**: SRD v2 Prima Materia (existing system document) *(Unverified)*
+- **Feature**: Signal noise generation. The area passively produces corrupted probability reads. Divination in the area is unreliable not because it's blocked but because results are degraded. The passive anti-scrying field. *(Unverified)*
+- **Concealment**: Counter-illumination. Matching ambient light to erase silhouette or profile. Defensive camouflage through controlled luminous emission. The deep-sea squid's ventral glow. *(Unverified)*
+- **Affliction**: Combat mutation trigger on contact. Mutagenic biological agents delivered through predatory strike. Hit the target and their biology begins reacting. *(Unverified)*
+- **Protection**: Self-sealing property. Fills fractures with molten material. Resists condition track degradation. Magma items repair their own structural damage. *(Unverified)*
+- **The Unaffiliated Ecosystem**: freelancers, deserters, criminals (needs own system track) *(Unverified)*
+- **Capability increase**: Creature's overall power increases (danger rating may increase) *(Unverified)*
+- **Affliction**: Choking. Respiratory distress. Disorientation in dense fog. Spatial confusion. *(Unverified)*
+- **Environment**: At high Stage, electrified pressure field. Area effect of both pressure spikes and electrical discharge. Dangerous to everyone in range including the wielder. The Tesla coil room. *(Unverified)*
+- **Illusion**: Narrative-logic reality. Items and environments function according to what they SHOULD do rather than what physics says they CAN do. THE most coherent expression of narrative override without the Fey's conviction requirement. *(Unverified)*
+- **Communication**: At specialized application, the historical figures in the overlay respond to contextual prompts from their original event. Not conscious — they're recordings. But the recording responds as if the original event were still occurring. *(Unverified)*
+- **Luck Control**: THE conviction-as-variable expression. Genuine belief shifts genuine probability. A character who truly believes their action will succeed faces mathematically better odds — not because the universe has preferences but because conviction is a real thermodynamic input into the Palimpsest's probability calculation. The Tessera formulation. *(Unverified)*
+- **Transform**: Biological-mechanical integration. THE bio-mechanical interface expression. Electrical stimulation bridging biological tissue and mechanical component. Prosthetics. Implants. The Harkness Engine's electrical component. *(Unverified)*
+- **Role**: Political maneuvering, funding allocation, resource competition *(Unverified)*
+- **Affliction**: Burning condition (ongoing). Ignition of flammable materials. Thermal shock. *(Unverified)*
+- **Aetheric Anchoring**: Runes or artifacts that bind the creature to a location or container *(Unverified)*
+- **How it Starts**: Prolonged proximity, consistent feeding, habituation *(Unverified)*
+- **Affliction**: Entrapment by aggressive growth. Being overwhelmed by vegetation. Suffocation under canopy. Mobility eliminated by living terrain. *(Unverified)*
+- **Funding Sources**: Mix of local governance, college sponsorship, and private investments *(Unverified)*
+- **Weaken**: Structural degradation through biological invasion. Roots in foundations. Moss in mortar. Vine-weight on roofs. The building consumed by the forest. *(Unverified)*
+- **Transform**: At specialized application, Decay as controlled decomposition. The Chirurgeon's tool — targeted tissue removal for surgical purposes. Necrotic debridement. Precise biological demolition. *(Unverified)*
+- **Verdant Font (W2)**: V-01 through V-16. The Accelerant. Phase wheel: Flora(Solid)/Fauna(Liquid)/Myco(Gas)/Viral(Plasma). 16 isotopes + effect summary. *(Unverified)*
+- **Communication**: Collective tactical coordination. Real-time shared awareness across all connected organisms. MORE aggressive than Mycelium's passive network — the Hive's communication serves predatory group action. *(Unverified)*
+- **Speed**: At specialized application, hydraulic-assisted movement. The fluid medium providing assisted locomotion. Not fast — powerful in motion. The difference between quick and unstoppable. *(Unverified)*
+- **Protection**: Size as defense at specialized application. Attacks don't meaningfully affect a creature too large to notice them. Damage thresholds from sheer biological mass. *(Unverified)*
+- **Concealment**: Dense spore clouds obscuring vision. Biological fog. Living obscurement that may also carry payload. *(Unverified)*
+- **Concealment**: Ice refraction creating visual distortion. Glare. Frost-covered surfaces reflecting and scattering light unpredictably. *(Unverified)*
+- **Examples**: Elite hunters with their signature creatures; sapient companions with deep mutual trust *(Unverified)*
+- **Environment**: At high Stage, the network alters the biological environment. The forest floor that detects all movement. Territory that knows what walks on it. *(Unverified)*
+- **Function in Operations**: Keeps field equipment in working order; creates specialized tools for specific contracts *(Unverified)*
+- **Feature**: Structural permanence. Condition track resistance against downward movement. The item that will not degrade because it has already reached its final state. *(Unverified)*
+- **Create**: Alchemical compounds. Producing specific chemical substances through controlled reaction. Medicines, adhesives, solvents, fuels, reagents. *(Unverified)*
+- **Morph**: At specialized application, Serum-delivered template modifications. The Crystal provides the target specification; the Chem delivers it into the biological system. More precise than V-16 Mutagen because the Forge provides engineering tolerances rather than evolutionary randomness. *(Unverified)*
+- **Environment**: Industrial atmosphere. Heat, pressure, mechanical noise, the aesthetic of the working engine. Terrain alteration through infrastructure imposition. *(Unverified)*
+- **Feature**: Dual-timeline perception. The ability to see both the current and historical version of a space simultaneously. Invaluable for investigation, archaeology, and navigation through changed terrain. *(Unverified)*
+- **Staging Area**: Where teams are mustered and equipped before departure *(Unverified)*
+- **Affliction**: Electrical disruption of biological systems. Seizure. Cardiac disruption. Nervous system override. The weaponized version of the same interface that heals. *(Unverified)*
+- **Affliction**: Haunting conditions. The emotional weight of the preserved identity imposing on living targets. Fear, sorrow, guilt, obsession, cold — whatever the Haunt's dominant emotional record carries. The living feel what the dead felt. *(Unverified)*
+- **Handler Benefit**: Creature will return to handler; obeys basic commands; won't flee *(Unverified)*
+- **Sequence record**: order of operations, rigid vs flexible steps *(Unverified)*
+- **Weaken**: The vessel's native identity suppressed. Will, personality, agency, and self-determination degraded by the Void component clearing space for the possessor. *(Unverified)*
+- **Communication**: Bioluminescent signaling. Species recognition, mating display, threat display, territorial marking, lure. Light as biological language. The firefly's flash. *(Unverified)*
+- **Communication**: Experiential projection rather than speech. The Wraith communicates by sharing its emotional and experiential record directly. The living don't hear words — they feel what the ghost felt. Impressions, not sentences. *(Unverified)*
+- **Affliction**: Electrical stun. Muscle seizure. Nervous system disruption. At high Stage: paralysis, cardiac disruption. At specialized application against constructs: system overload. *(Unverified)*
+- **Loyalty**: To corporate interests AND public safety mandate *(Unverified)*
+- **Senses**: At specialized application, mechanical sensing through pressure and vibration detection. The Engine feels disruptions in its mechanical environment. Tremorsense through machinery. *(Unverified)*
+- **Communication**: Long-range signal transmission through precisely directed infrastructure. The precision antenna. The focused broadcast. *(Unverified)*
+- **Ætherforged**: war golems with experiential continuity *(Unverified)*
+- **Licensed**: requires Background (Deepguard Rank, Exchange Rank, etc.) for unrestricted use; logged in institutional archives *(Unverified)*
+- **Illusion**: Active deception. THE "which one is real?" expression. Not a simple false image — a presented version where the truth remains genuinely undetermined until the Gambit resolves. *(Unverified)*
+- **Feature**: Hard-light projection on demand. Geometric light constructs shaped by will. The versatile crafting material that's made of light. Torch that can be molded into any shape or tool. *(Unverified)*
+- **Environment**: Corrosive area. Pools of dissolving material. Hazardous terrain that damages anything resting in it. *(Unverified)*
+- **Affliction**: At specialized application, alchemical toxins. Engineered chemical disruption. Poisons, sedatives, paralytic agents. The poisoner's craft as Forge discipline. *(Unverified)*
+- **Failure map**: what goes wrong when conditions deviate, recovery options *(Unverified)*
+- **Example**: Heart of a Cinder Salamander (grants fire-aligned mutations when applied to creatures) *(Unverified)*
+- **Society**: Unknown; Cephalarchs rarely interact with other species *(Unverified)*
+- **Enhanced Trait**: At specialized application, the Grid's electrical field enhancing nervous system response time. Faster reflexes. Improved initiative. Electrical augmentation of reaction speed. *(Unverified)*
+- **Feature**: Optical precision. The ability to focus, direct, and select specific wavelengths or energy paths. The lens as universal precision tool. *(Unverified)*
+- **Sapience**: Very high (possibly superhuman in certain domains) *(Unverified)*
+- **Senses**: At specialized application, Crystal geometry providing navigational awareness. Orientation, altitude, velocity, heading — the Crystal tracks positional data. The compass that always knows where you are. *(Unverified)*
+- **Enhanced Trait**: Trait modification rather than temporary enhancement. The improvement comes from rewriting the biological template to include the desired trait natively. Permanent if Calcified. *(Unverified)*
+- **Affliction**: every plane can impose conditions through its native mechanisms. *(Unverified)*
+- **Feature**: Passive information processing. Items near Spire materials become organized and categorized. The workspace becomes more efficient. Operate checks gain advantage. *(Unverified)*
+- **How it Starts**: Consistent care, protection, positive reinforcement, time investment (weeks to months) *(Unverified)*
+- **Strange Signals**: Kan-tech broadcasts from unmapped locations *(Unverified)*
+- **Affliction**: At high Stage, forced experience replay. The target experiences someone else's memories uncontrollably. Identity confusion — "am I me, or am I the person in the memory?" The Echo overwrites current experience with archived experience. *(Unverified)*
+- **Growth / Shrinking**: Template rewrite including scale modification. More precise than Titan (V-15) because the Myco Projecting character distributes the change through the network uniformly rather than inflating mass unevenly. *(Unverified)*
+- **Examples**: Handler who genuinely cares for a creature; sapient creatures that trust their handler *(Unverified)*
+- **Protection**: Reliquary materials resist destruction. The Synod protects its records — destroying the Reliquary destroys irreplaceable archival data, and the Synod's permanence drive resists that. *(Unverified)*
+- **Source**: Aberrants, Interstice, high-level Arcaniform *(Unverified)*
+- **Sapience**: High (capable of abstract thought, communication, moral reasoning) *(Unverified)*
+- **Behavioral Observation**: Monitor for signs of cascading corruption or dangerous ability development. *(Unverified)*
+- **Feature**: Persistent dampness. Fire resistance through moisture saturation. Humidity maintenance. *(Unverified)*
+- **Weaken**: Electrical overload disrupting systems. Circuit burning. Fuse-blowing. Cascade failure through connected infrastructure. *(Unverified)*
+- **Enhanced Trait**: At specialized application, galvanic stimulation temporarily enhancing biological performance through electrical activation of dormant muscular and neural capacity. The adrenaline shot as Forge technology. *(Unverified)*
+- **Luck Control**: At terrible specialized application, weaponized randomness. Not directing probability but DISRUPTING any existing direction. Anti-Luck-Control. If someone is using Prophecy, Karma, or Loop effects, Chaos strips them. The probability equivalent of a nuclear option. *(Unverified)*
+- **Convoy Duty**: routine trade route security through unmapped wilderness *(Unverified)*
+- **Feature**: Perfect timing accuracy. Programmable routine — up to three sequential actions encoded and triggered on command, executing with zero deviation regardless of external interference. *(Unverified)*
+- **Feature**: Precision at range. The combination of Channeled reach and Calibrated selection at distance. The sniper scope of Forge expressions. *(Unverified)*
+- **Luck Control**: Pure probability manipulation. THE randomness expression. Any outcome is possible. Higher Formation Stage = wider variance. At Stage 5+, results can include outcomes normally outside the probability distribution. *(Unverified)*
+- **Competing**: catalyst conflicts with item's nature. Two expressions wrestle for dominance. Resolution: determine which side wins or whether they coexist in tension. *(Unverified)*
+- **Air Operations**: WW2-Vietnam era aircraft + flying creatures, contested air superiority *(Unverified)*
+- **Communication**: Direct experience transmission. Not words but lived memory shared between beings. Showing rather than telling. Perfect fidelity testimony. *(Unverified)*
+- **Value to Guilds**: Excellent for labor; can be contracted as work-crews; valuable for studying collective intelligence *(Unverified)*
+- **Nullify**: THE anti-determination expression. Breaks contracts, curses, fate-locks, prophecies, Loop effects, and any form of predetermined outcome. Nothing stays Resolved near Chaos because Chaos actively consumes resolution. The universal solvent of fate. *(Unverified)*
+- **Immunity**: At specialized application, fated survival. The Prophecy says you survive this specific event — so you do. But ONLY this event. The Prophecy is specific and narrow. It doesn't protect generally — it guarantees specifically. *(Unverified)*
+- **Create**: Biological construction. Growing structures, producing organic materials (wood, fiber, cellulose, resin). The World Tree builds. *(Unverified)*
+- **Feature**: Persistent heat long after removal from source. Thermal mass. Cold resistance. *(Unverified)*
+- **Growth**: At high Stage, adaptive rewrite includes scale modification. The creature gets bigger because bigger solves the current problem. *(Unverified)*
+- **Nullify**: At specialized application, suppressing emotional and psychological effects on the target. Fear, charm, compulsion, inspiration — all require the target to HAVE emotional responses. A Hollowed target is immune because there's nothing left to manipulate. *(Unverified)*
+- **Feature**: Persistent radiance. Warmth at distance. The "ever-warm" property at low Stage. *(Unverified)*
+- **Function in Operations**: Safe place for teams to rest between missions; informal intelligence gathering *(Unverified)*
+- **Transform**: Biological conversion. Composting. Breaking one biological form down to feed another. THE biological recycling expression. Dead matter into growth medium. *(Unverified)*
+- **Special Features**: Often serves as informal gathering point for local hunters and trappers *(Unverified)*
+- **Function in Operations**: Dispatch center for all local guild work *(Unverified)*
+- **Communication**: Focused signal transmission. Directed light as communication medium. The heliograph. The laser communication link. *(Unverified)*
+- **Senses**: Memory storage and perfect retrieval. Holographic playback of recorded sensory experience. THE data storage expression. One hour of perfectly recalled experience at Stage 1. *(Unverified)*
+- **Enhanced Trait**: Grip and grapple enhancement. Constriction force. Biological adhesion. *(Unverified)*
+- **Comprehend**: At specialized application, pattern matching against stored databases. If the Data crystal has encountered the language, cipher, or pattern before, it can translate by comparison. The library that reads for you. *(Unverified)*
+- **Teleport**: At specialized application, finding spatial contradictions and stepping through. Not crossing space — finding places where space is already folded, broken, or contradictory, and using those breaks as transit points. The seam-walk. *(Unverified)*
+- **Transform**: Dissolution as processing step. Acid as tool for breaking compounds into constituent parts. The basis of refining and separation chemistry. *(Unverified)*
+- **Legality**: Regulated; governments often monopolize ore trade *(Unverified)*
+- **Feature**: Biocompatible electrical interface. The material bridges electrical and biological systems without rejection. The foundation of all Forge-biological hybrid technology. Organic struck by Galvanism heals 1 HP from the galvanic stimulus. *(Unverified)*
+- **C. Isotope Tier**: Fine control over a specific isotope (B-01 Inferno, V-13 Cancer, S-09 Wraith, etc.). Rated 1-10 per learned isotope. Determines accuracy and contributes to pool size. *(Unverified)*
+- **Danger**: Variable (7-10, depending on individual power) *(Unverified)*
+- **Environment**: Erosion field as persistent area effect. Long-term structural degradation of buildings, walls, terrain features. Desert creation. *(Unverified)*
+- **Affliction**: At high Stage, imposing Record permanence on a living being. Fixing the target's current state as their permanent version. They cannot change because their Record has been sealed. Identity lock. *(Unverified)*
+- **Nullify**: Temporal and logical disruption. Paradox disrupts any process that relies on consistent causal sequence. Time-dependent effects stall. Cause-and-effect processes loop. If-then chains break because both if and not-if are simultaneously true. *(Unverified)*
+- **Nullify**: At specialized application, information warfare. Corrupting, overwriting, or disrupting hostile data systems through the Propagated character's chain effect applied to information. *(Unverified)*
+- **Move Object**: Wind force. Air pressure as motive power. Pushing, dragging, lifting through atmospheric manipulation. *(Unverified)*
+- **Quickness**: THE precision timing expression. Extremely regular, high-frequency timing pulse. Mechanical systems in proximity become more precise. Initiative bonus equal to item EML. Cosmological accuracy in timekeeping. *(Unverified)*
+- **Affliction (area)**: Biological conditions delivered by spore cloud. Allergic reaction, respiratory irritation, toxin inhalation, contact dermatitis. Area biological warfare. *(Unverified)*
+- **Foil/Shadow**: integration, not resolution *(Unverified)*
+- **Feature**: Constructed-reality detection. Passive awareness of when a presented version of reality differs from the actual version. The permanent lie detector. The institutional bullshit filter. The sense that "this isn't real." *(Unverified)*
+- **Palimpsest**: the connective tissue between all planes, with its own terrain, ecology, and native inhabitants. NOT a featureless void. *(Unverified)*
+- **Sedation Maintenance**: Regular doses of tranquilizer to keep the creature docile *(Unverified)*
+- **Illusion**: The past as dominant perception. Current reality becomes the secondary experience — still accessible but requiring effort to perceive. The world looks, sounds, and feels like it did in better times. The primary expression. *(Unverified)*
+- **Affliction**: Restrain, entangle, slow. The cohesive pull that holds targets. The primary combat expression — Mire grabs and doesn't let go. *(Unverified)*
+- **Affliction**: Decay conditions imposed on living biological targets. Fungal infection. Rot initiated while the organism is still alive. Decomposition that doesn't wait for death. *(Unverified)*
+- **Speed**: Enhanced movement through propulsion assistance. Reduced effective weight plus directional force. The item doesn't make the wielder lighter — it pushes them where they want to go. *(Unverified)*
+- **Environment**: Industrial atmosphere. Exhaust, heat, mechanical vibration. The factory floor aesthetic. *(Unverified)*
+- **Tick economy**: 1 tick = 6 seconds = 1 combat round; 1 encounter ≈ 100 ticks *(Unverified)*
+- **ÆP**: Æther Points. Casting cost = (ESL × 2) − 1. *(Unverified)*
+- **Senses (negative)**: Suppresses perception within the darkened area. Not just visual — awareness itself is dampened. Things that should be noticed aren't. The Shadow dims alertness. *(Unverified)*
+- **Unreliable Narrator**: every institution's version is unreliable; truth lives between versions *(Unverified)*
+- **Feature**: Self-fueling infrastructure. The Interfacial combustion chemistry provides ongoing fuel. Lowest maintenance once established. Hardest to establish initially — requires the combustion interface to be bootstrapped. *(Unverified)*
+- **Feature**: Memorial preservation. Places and objects under Nostalgia expression resist change because the probability space favors the historical version. Monuments that never weather. Ruins that look freshly built. *(Unverified)*
+- **Protection**: Ice as ablative barrier. Shield that shatters on impact but absorbs the hit. Temporary structural defense. *(Unverified)*
+- **Comprehend**: Pattern recognition through temporal analysis. Detecting rhythms, cycles, and periodic processes. The analytical instrument that identifies what happens when. *(Unverified)*
+- **Concealment**: Sound masking through wind. At high Stage, light dispersal through atmospheric distortion. *(Unverified)*
+- **Communication**: The archive made accessible. Qualified readers can query the Record. Information retrieval from permanent storage. The library card. *(Unverified)*
+- **Protection**: At specialized application, the directional force field providing deflection. Not absorption — redirection. Incoming projectiles deflected by the pressure-crystal field. The deflection shield. *(Unverified)*
+- **Affliction**: Electrical stun. Nervous system disruption. Muscle seizure. Cardiac interference at high Stage. System overload on constructs and Kan-tech devices. *(Unverified)*
+- **Instinctual**: Acts on base instincts (hunger, territorial defense, mating) but has no sense of self. Can learn and adapt to stimuli. Examples: most beasts, some aberrations. *(Unverified)*
+- **Communication**: At specialized application, focused signal transmission. Point-to-point communication through directed beam. Secure because only the receiver at the correct angle gets the signal. *(Unverified)*
+- **Senses**: Reading permanent records. Accessing archived information. Perceiving what was fixed into the Archival medium. THE past-divination expression for institutional-grade information. *(Unverified)*
+- **Senses**: At specialized application, reading a Resolved outcome. The Loop already knows what happens next because it's already happened. Precognition through repetition rather than prediction. *(Unverified)*
+- **Affliction**: Suffocation (air removed or replaced with unbreathable composition). Deafening (wind noise overwhelming). Disorientation (weightlessness, vertigo). *(Unverified)*
+- **Affliction**: Existential cessation at high Stage. The target doesn't just feel weak — they feel the end of everything. Purpose collapses. Will erodes. The motivation to continue existing fades. *(Unverified)*
+- **The Desert Ruins**: Palimpsest folds near Calamity ground zero, spelunking, artifact recovery *(Unverified)*
+- **Senses**: Geometric detection. Perceiving structure, pattern, and mathematical relationship in observed phenomena. The Analyzer's crystal. *(Unverified)*
+- **Feature**: Effective weightlessness. Encumbrance contribution zero. Item floats at wielder's shoulder when not held. The hover-item. *(Unverified)*
+- **Comprehend**: Alchemical analysis at maximum precision. The analytical instrument that identifies not just what a substance is but exactly which of its possible reaction pathways will activate under specific conditions. *(Unverified)*
+- **Society**: Unknown; some Eidolons are solitary, others form loose collectives *(Unverified)*
+- **Move Object**: Earthquake. Ground displacement. Shifting earth masses. Landslide. Not telekinesis — the earth itself moving. *(Unverified)*
+- **Affliction**: Adhesion condition. Molten material sticks to target, ongoing burn that can't be brushed off. Requires active removal. *(Unverified)*
+- **Environment**: Terrain hazard creation. Molten pools as difficult terrain with ongoing fire damage. Persistent zone control. *(Unverified)*
+- **Variable**: Uncontrolled and dangerous Variable. Random biological output with no direction. You might get a useful mutation or a tumor. Variable at maximum risk with zero control. *(Unverified)*
+- **Isotope identity**: which specific isotope state the material embodies *(Unverified)*
+- **Feature**: Unflinching perception at willingly applied low Stage. Immunity to surprise — you've already seen the worst, so nothing shocks you. Professional tool for investigators, soldiers, and Chirurgeons who need to see clearly regardless of what they're looking at. *(Unverified)*
+- **Environment**: The ash field. The zone of active settling. Everything in the area ages, crumbles, degrades. Terrain unreliable because it's in the process of collapsing. Architecture groaning. Dust falling. *(Unverified)*
+- **Senses**: Biological perception enhanced through Crystal integration. Neural pathways augmented with crystalline processing. Sharpened senses through technological upgrade to existing biological hardware. *(Unverified)*
+- **Dramatic Irony**: Aíon's native mode *(Unverified)*
+- **Legality**: Highly regulated; different kingdoms have different harvest restrictions *(Unverified)*
+- **Affliction (mutation trigger)**: Full Mutation System activation. On biological contact: Integrity save or gain Nascent Mutation from source V-isotope expression. The gateway to the mutation cascade. *(Unverified)*
+- **Luck Control**: Pure probability manipulation. THE randomness expression. Any outcome is possible. Higher Formation Stage = wider variance. At Stage 3+, results can include outcomes normally outside the probability distribution. *(Unverified)*
+- **Forge Link**: A Forge Interfacial component that connects two or more slots, allowing them to share charge pools. The shared pool is capped by the lower (weaker) expression of the linked components. Linking doesn't enhance — it shares. Useful when one component generates charges faster than it uses them and another component needs more than it generates. *(Unverified)*
+- **Emergent**: the combination produces something neither expression would produce alone. The most dramatic and least predictable outcome. Emergent results are why alchemy is simultaneously the most valuable and most dangerous discipline. *(Unverified)*
+- **Barrier HP**: separate HP pool that absorbs damage before reaching the target *(Unverified)*
+- **Material Flags**: binary properties that gate specific behaviors: *(Unverified)*
+- **Weaken**: Biological structural degradation. Living tissue softening, loosening, breaking down. The wasting condition that isn't violent but persistent and progressive. *(Unverified)*
+- **Purpose**: Temporary creature storage before processing or sale *(Unverified)*
+- **Create**: Precision timing devices. Clockwork mechanisms. Self-winding automata. Instruments that measure and divide time into exact increments. *(Unverified)*
+- **Feature**: Active information processing. Not passive storage (that's F-13 Spire alone) — active retrieval, correlation, and output. The computer. *(Unverified)*
+- **Create**: Hydraulic mechanisms. Presses, lifts, actuators, force-multiplying devices. The infrastructure of directed fluid power. *(Unverified)*
+- **Immunity**: THE fate-lock expression. A specified outcome is guaranteed for the next triggering event. No variance roll. The result is predetermined. At low Stage, a single guaranteed hit or defense check. At high Stage, an entire event sequence fixed in advance. *(Unverified)*
+- **Weaken**: Material degradation through sustained radiant exposure. UV-equivalent damage. Bleaching. Brittling of organic materials. *(Unverified)*
+- **Weaken**: Degrading the believability of any illusion, disguise, or false presentation in range. The simulation becomes obviously fake. The CGI starts showing. The propaganda sounds hollow. The confidence game loses its confidence. *(Unverified)*
+- **Weaken**: Pressure fatigue. Sustained compression weakening structural integrity. Water seepage undermining foundations. *(Unverified)*
+- **Noble/Corporate Cold War**: magi-feudal proxy conflicts *(Unverified)*
+- **Feature**: Structural infrastructure integrity. The housing quality that makes all other components function reliably. Item structural integrity based on industrial pressure architecture. *(Unverified)*
+- **Quickness**: Process acceleration through mechanical efficiency. Tasks performed faster because the mechanism is optimized. Not velocity — throughput. The assembly line that produces more per hour. *(Unverified)*
+- **🔧 NEEDS WORK**: Placed but mechanics need development *(Unverified)*
+- **Growth**: Uncontrolled size increase. Biological mass expanding without structural purpose. Things grow that shouldn't grow, in places they shouldn't grow. *(Unverified)*
+- **Communication**: Instantaneous electrical signal transmission. The telegraph, the telephone, the network. Information propagated at the speed of current. *(Unverified)*
+- **Maritime Operations**: merged ocean jurisdictions, piracy, sea creatures, coast guard *(Unverified)*
+- **Feature**: Contagion persistence. The plague maintains itself in the environment. Surfaces remain infectious. Biological persistence in soil, water, air long after the original carriers have died. *(Unverified)*
+- **Sapient**: Capable of complex abstract thought, language, moral reasoning, long-term planning, and a sophisticated sense of self. Examples: humanoids, sapient Aberrants, high-intelligence Interstice. *(Unverified)*
+- **Affliction**: At high Stage, overload conditions. Target systems overwhelmed by sympathetic energy cascade. Circuits burn. Pressure seals fail. Kan-tech in proximity malfunctions from energy bleed. *(Unverified)*
+- **Create**: Refined products from raw inputs. Alloys, compounds, purified substances. The output of sustained chemical processing. *(Unverified)*
+- **Environment**: At high Stage, the Paradox produces local temporal anomalies. Effects preceding their causes. Consequences arriving before actions. Actions occurring that nothing initiated. The area runs in contradictory causal directions simultaneously. *(Unverified)*
+- **Quickness**: Temporal compression through repetition. The task has already been done — the Loop resolves it. Routine processes complete because the Loop has predetermined their completion. *(Unverified)*
+- **Swimming**: Enhanced aquatic movement. The Abyss facilitates travel through its own medium. *(Unverified)*
+- **Examples**: Captured beast used for labor; creature working for pay *(Unverified)*
+- **Feature**: Persistent warmth. Heat source. Comfort in cold. Cooking. *(Unverified)*
+- **Luck Control**: Fate-tilting. The outcome is predetermined — Prophecy shifts the probability of the path toward the fixed destination. Not controlling random outcomes but guiding events toward an inevitable conclusion. The current of fate. *(Unverified)*
+- **Weaken**: Systemic failure. Functional tissue outcompeted by non-functional growth. Resources diverted from survival to purposeless replication. *(Unverified)*
+- **Players**: Not smaller organizations, but **major political actors**—rival guilds, government factions, college schools, noble houses *(Unverified)*
+- **Senses**: Forced truth perception. The Horror strips comfortable interpretations and shows what IS. Not illusion-breaking (that's Simulation P-16) — truth-FORCING. The difference: Simulation reveals construction. Horror reveals the thing the construction was hiding. *(Unverified)*
+- **Concealment**: Submersion. Targets pulled beneath Mire surface are hidden from sight and most detection. *(Unverified)*
+- **Environment**: At high Stage, the Titan alters terrain through presence alone. Footprints become craters. Breathing creates wind. Movement displaces water and earth. *(Unverified)*
+- **Feature**: Dual-energy output. Both pressure and electrical force available simultaneously. Versatile but the stability cost is real. Visual spectacle accompanies all uses. *(Unverified)*
+- **[Passive]**: Always on, no action required. *(Unverified)*
+- **Affliction**: Ongoing burn with mass. Can't be brushed off easily. Adhesive + thermal condition simultaneously. Armor becomes a heat trap. *(Unverified)*
+- **BER**: Base Effect Rank. Static cost representing pool footprint. *(Unverified)*
+- **Affliction**: Haunting conditions. The emotional weight of the preserved identity imposing on living targets. Fear, sorrow, guilt, obsession, cold — whatever the Wraith's dominant emotional record carries. The living feel what the dead felt. *(Unverified)*
+- **Environment**: Deep water conditions. Pressure increase. Temperature drop. Darkness. Atmospheric replacement with liquid medium. *(Unverified)*
+- **Environment**: Storm conditions. Electrified atmosphere. All conductors in area become secondary arc targets. Chain hazard zone. *(Unverified)*
+- **Illusion**: Palimpsest primary (superposition collapse). Other planes produce limited illusion through their native mechanisms. *(Unverified)*
+- **Feature**: Grip. Non-slip surfaces. Advantage on grapple/hold maintenance. The craftsman's use. *(Unverified)*
+- **Affliction**: Swarm conditions. Overwhelming through numbers. Distraction, area harassment, morale disruption through coordinated multi-vector assault. The psychological weight of facing hundreds of coordinated attackers. *(Unverified)*
+- **Substrate**: Routed through weapon/implement. Blocked by disarming/sundering. *(Unverified)*
+- **Create**: At specialized application, producing power cells. Manufacturing portable energy storage units. The Battery making batteries. Recursive infrastructure. *(Unverified)*
+- **Create**: Ice constructs. Walls, bridges, barriers, weapons from crystallized moisture. Temporary but immediately available. *(Unverified)*
+- **Concealment**: Information sealed in Record is accessible only to authorized readers. Classified status. The sealed file. Not destroyed — locked. *(Unverified)*
+- **Affliction (cognitive)**: Memory loss conditions. Confusion. Inability to form new memories. Loss of learned skills. Progressive cognitive degradation. The target forgets. *(Unverified)*
+- **Senses**: Information processing field. Crystal Spire materials continuously process and organize information in their environment. Records are cleaner, calculations faster, patterns more legible. THE Forge's primary perception expression. *(Unverified)*
+- **Feature**: Self-repair (Generative passive expression). Persistent biological function. Structural plant properties. The "living item" property. *(Unverified)*
+- **Senses (negative)**: Suppresses visual and auditory perception through particulate density. Interferes with tracking and observation. *(Unverified)*
+- **Enhanced Trait**: At extremely dangerous specialized application, the raw replicative drive can temporarily enhance biological function by massively accelerating tissue production. But without Forge Calibrated mediation, the enhancement is completely indiscriminate — you get stronger AND you get tumors. *(Unverified)*
+- **Feature**: Chain effect. Electrical arc jumps to secondary targets through conductive proximity. Metal armor becomes a liability near Current expression. *(Unverified)*
+- **Illusion (inverse)**: The comfortable illusion FAILING. Horror doesn't create a false image — it destroys one. The wallpaper peels. The mask cracks. The pretense collapses. The smile was always hiding teeth. *(Unverified)*
+- **Senses**: Distributed biological detection. Detect biological organisms within the network's reach. Feel vibrations, chemical signatures, biological presence through connected substrate. Every root is a sensor. *(Unverified)*
+- **Transform**: Fire as processing agent at controlled application. Smelting, calcination, charcoal production. The basis of metallurgical processing. *(Unverified)*
+- **Weaken**: Metabolic disruption compounds. Poisons that starve the target's system of usable energy. Consumptive toxins that intercept metabolic pathways, leaving the organism with fuel it can't burn. *(Unverified)*
+- **Feature**: THE sustained operation expression. Item never depletes completely — maintains minimum charge of 1 regardless of use. Recharge rate doubled. The Diesel loop is self-sustaining. At Stage 5, drain rate becomes zero. The never-stop engine. *(Unverified)*
+- **Feature**: Biological mass beyond normal limits. Carrying capacity. Structural load bearing through size. The living siege tower. *(Unverified)*
+- **Information Anarchists**: stealing and freely distributing curated intelligence *(Unverified)*
+- **Burrowing**: Movement through solid ground. The earth parts for its own expression. At high Stage, the ground itself provides transit for Bedrock-aligned subjects. *(Unverified)*
+- **Senses**: Memory replay. Accessing recorded experiences in full sensory fidelity. Watching, hearing, feeling what the recorder experienced. THE experiential record access expression. The basis of Chiaroscuro's sim-stim industry. *(Unverified)*
+- **Senses**: Light production. Fire illuminates. At low Stage this is the most common practical application — a torch. *(Unverified)*
+- **Uses**: Alchemy, potion-brewing, incense for rituals, reagents for transmutation *(Unverified)*
+- **(N)**: New this session (novel extraction with no prior source) *(Unverified)*
+- **(C)**: Class-derived (class ability extraction, April 15 session) *(Unverified)*
+- **Regeneration**: Sustained healing over time. The tree that regrows what was cut. Continuous biological repair without repeated application. *(Unverified)*
+- **Weaken**: Against living targets at specialized application, the Grave begins claiming biological material toward its mineral endpoint. Not damage — the slow process of fossilization initiated while the subject still lives. *(Unverified)*
+- **Create**: Volcanic stone from cooled flow. Basalt, pumice, obsidian (rapid cooling). Raw building material. *(Unverified)*
+- **Elongation**: Cohesive extension. Mire stretches and reaches through its own adhesive medium. Tendrils of cohesive material extending from the source. *(Unverified)*
+- **Concealment**: At specialized application, hard-light projection disguising appearance. The technological disguise. Detectable as energy construct by analysis but visually perfect to casual observation. *(Unverified)*
+- **Feature**: Biological self-sufficiency. Photosynthetic metabolic supplement. Reduced food requirements. The organism that partially fuels itself from sunlight. *(Unverified)*
+- **Affliction**: Fear and intimidation through impossible biological presence. Morale effects from witnessing something that breaks the rules of scale. Territorial dominance through sheer size. *(Unverified)*
+- **Affliction**: Karmic debt manifestation. Accumulated negative actions manifest as increasingly negative probability. The target's luck deteriorates in precise proportion to the harm they've caused. The debt comes due gradually. *(Unverified)*
+- **Move Object**: Pressure as motive force. The steam engine principle — contained pressure pushing mass. The historical basis of Setting B industrial power. *(Unverified)*
+- **Weaken**: Pressure degradation of sealed containers, joints, and armor. Steam finds and exploits every gap. *(Unverified)*
+- **Feature**: Persistent biological dispersal field. Sustained low-level area effect. Ambient biological presence. *(Unverified)*
+- **Affliction (mutation trigger)**: Full Mutation System activation. On biological contact: Integrity check or gain Nascent Mutation from source V-isotope expression. The gateway to the mutation cascade. *(Unverified)*
+- **Services**: Poison identification, curse diagnosis, reagent bulk orders *(Unverified)*
+- **Senses**: At specialized application, holographic display. Information presented as three-dimensional visual construct. The Heads-Up Display. Tactical overlay. *(Unverified)*
+- **Feature**: Completion permanence. Once Decay has claimed a material fully to its endpoint, nothing further can happen to it. Ash doesn't rot. Fully oxidized metal doesn't corrode further. The endpoint is stable. *(Unverified)*
+- **Weaken**: Degrading the reliability and trustworthiness of information near the Censor. Not destroying records — introducing doubt. Making sources seem less credible. The disinformation field. *(Unverified)*
+- **Anti-Collegiate Movements**: frontier communities refusing institutional jurisdiction *(Unverified)*
+- **Succession Crisis**: competing legitimacies all real *(Unverified)*
+- **Gift-Curse**: every god's portfolio is a gift-curse structure *(Unverified)*
+- **Affliction**: At specialized application, galvanic disruption. Electrical stimulation at deliberately wrong frequency disrupting biological function. Nerve interference. Cardiac disruption. Muscle seizure. The offensive defibrillator. *(Unverified)*
+- **Weaken**: Erosion. Ablative stripping. Gradual structural degradation over sustained exposure. The primary expression — Dust wears things down. *(Unverified)*
+- **Legality**: Often freely available but of variable quality depending on harvest location *(Unverified)*
+- **Weaken**: Material embrittlement through thermal stress. Cold makes ductile materials brittle (direct Brittle Flag interaction — cold can temporarily IMPOSE the Brittle condition on materials that don't normally carry it). *(Unverified)*
+- **Capability**: Repair damaged gear, create specialized containment devices, maintain Concord Crystals *(Unverified)*
+- **Arrested**: The process was interrupted before reaching its final state. The material stopped in transit. Quenched steel (cooled rapidly before the crystal structure could fully settle), flash-frozen tissue (biological process halted mid-function), partially decayed remains (the Synod's claim begun but not completed). Arrested materials carry the tension of their interrupted process — they exist in a state the material did not choose and may cooperate or resist unpredictably during processing. This tension can be an asset (tempered steel is stronger than fully settled iron precisely because the arrest created a useful internal stress) or a liability (the material may try to resume its interrupted process at inopportune moments). *(Unverified)*
+- **Weaken**: At specialized application, sustained electrical degradation of systems. Circuit burning. Component failure through overcharge. Kan-tech disruption through power surge. *(Unverified)*
+- **Purpose**: Aesthetics and renewable food production *(Unverified)*
+- **Feature**: Mechanical advantage. The force multiplication ratio inherent in hydraulic systems. Small input, large output, precisely directed. *(Unverified)*
+- **Feature**: expressed through the character's deepest affinity. Every isotope produces Feature. *(Unverified)*
+- **Environment**: Temperature reduction in area. Ice formation on surfaces. Slippery terrain. Frost conditions. *(Unverified)*
+- **Weaken**: Thermal degradation through sustained contact. Melts through lower-tier materials over time. *(Unverified)*
+- **Feature**: Energy storage and sustained release. THE battery expression. Chemical energy converted to electrical current at controlled rate. The power source that sustains other systems. *(Unverified)*
+- **Weaken**: Corrosive degradation at the electrochemical interface. The acid component eating through contacted material while the electrical component disrupts systems. *(Unverified)*
+- **The Titanwood**: permanent hazardous zone, convoys, creature encounters, Fey diplomacy, biological harvesting *(Unverified)*
+- **Nullify**: At specialized application, precision counteragent delivery. The antidote engineered to interact with exactly one specific toxin at the molecular interface. *(Unverified)*
+- **Senses**: Focused perception at range. The telescope, the microscope, the divination focus. Calibrated selection of which sensory information is gathered, delivered through directed path. *(Unverified)*
+- **Threshold Bonus**: how much damage before track movement triggers *(Unverified)*
+- **Comprehend**: Biological system analysis at the molecular level. Reading which mutation pathways are available and which will produce the desired result. The diagnostic step before the therapeutic step. *(Unverified)*
+- **Affliction**: Predestination dread. The target knows they cannot escape the Prophecy's outcome. Will and agency eroded by certainty that nothing they do changes the destination. Only the path remains negotiable. *(Unverified)*
+- **Weaken**: Degrading the target's engagement with current reality. They become less effective in the present because their awareness is anchored in the past. Reduced initiative. Delayed reactions. The world has moved on but they haven't. *(Unverified)*
+- **Feature**: Range enhancement. Any ranged effect channeled through Lens gains increased range and accuracy. The universal scope attachment. *(Unverified)*
+- **Concealment**: Narrative irrelevance as invisibility. Things that don't matter to the current narrative become imperceptible. Background characters fade. Unimportant details become impossible to notice. *(Unverified)*
+- **Immunity**: At terrible specialized application, absolute process arrest applied as protection. Nothing can affect the target because nothing can occur. Perfect defense that is also perfect imprisonment — the target is safe because they are frozen. The Entropic Collapse at high Stage. *(Unverified)*
+- **Enhanced Trait**: Electrical stimulation enhancing biological performance. Nervous system acceleration. Muscle fiber recruitment through directed electrical impulse. *(Unverified)*
+- **Affliction**: Ongoing corrosion condition. Continues dissolving after initial contact until neutralized or expended. Tissue damage that worsens over rounds. *(Unverified)*
+- **Environment**: Plague zone. Biologically hostile territory. Everything in the area subject to contagion exposure. The landscape itself becomes infectious. *(Unverified)*
+- **Variable**: Narrative logic Variable. The story determines which effect manifests. Controlled by dramatic appropriateness — the GM decides what the narrative requires. Not random, not player-controlled — story-shaped. *(Unverified)*
+- **Weaken**: Structural degradation at range. Ablative stripping of protection. The primary expression — everything Erosion touches loses structural integrity over time. *(Unverified)*
+- **Feature**: Natural Sunder advantage against organic and low-tier materials. Corrosive surface treatment. *(Unverified)*
+- **Communication**: Precision-timed signal transmission. Morse code. Synchronized broadcasts. Information encoded in exact temporal intervals. *(Unverified)*
+- **Inheritance of Sin**: the zoetrope's operating mechanism as thematic engine *(Unverified)*
+- **Feature**: Cold immunity for wielder. Preservation through cold (organic material doesn't decay). Liquid freeze on contact. *(Unverified)*
+- **Quickness**: Probability favoring completion. The Palimpsest's contested space resolves toward "this task is already done" — accelerating outcome resolution for routine processes. *(Unverified)*
+- **Mission shell metadata tags**: Arc_Placement, Focus, Reality_State, Employer_Type, Monster_Type, Global_Modifier *(Unverified)*
+- **Legality**: Partially regulated; mass-produced and widely available but high-quality sources are controlled *(Unverified)*
+- **Affliction**: Temporal fixation. The target becomes so immersed in the historical version that they lose track of present conditions. They make decisions based on conditions that no longer exist. Strategic blindness through beautiful memory. *(Unverified)*
+- **Affliction**: Uncontrolled mutation. Tumor growth. Biological disruption through undirected replication competing with functional tissue. THE raw mutagenic expression with zero guidance. *(Unverified)*
+- **Source**: Forged creatures, ore-based Minerals, metallically-aligned Aberrants *(Unverified)*
+- **Radio Drama grammar**: audience as co-creator; cannot be fully propagandistic *(Unverified)*
+- **Feature**: Enhanced Sunder effectiveness against organic and low-tier materials. Corrosive surface treatment. *(Unverified)*
+- **Role**: Operational anchors, not corporate control *(Unverified)*
+- **Senses**: Long-range precision detection. Telescopic, scrying-compatible, divination-focusing. The directed infrastructure carrying Calibrated perception at distance. *(Unverified)*
+- **Protection**: Biological armor. Bark-skin. Structural reinforcement of living tissue. Living shields that grow back. *(Unverified)*
+- **Senses**: Perceiving historical events in a location. Psychic archaeology. Reading what happened here by witnessing it replayed in spectral overlay. Investigation through temporal perception. *(Unverified)*
+- **Sapience**: High (colony-level), Low-Moderate (individual level) *(Unverified)*
+- **Affliction**: Reality sickness. Exposure causes existential nausea, decision paralysis, and perception fragmentation. The target cannot rely on cause-and-effect because cause-and-effect is locally broken. *(Unverified)*
+- **B. Complexity Pool**: Buys Additives. Total Additive cost cannot exceed this budget. Subtractives grant bonus points to this pool. *(Unverified)*
+- **Variable**: With Forge Calibrated mediation (F-16), this becomes DIRECTED Variable for biological effects. The practitioner selects which output manifests. The expensive, precision-controlled version. Without Forge: random Variable from the Viral profile. *(Unverified)*
+- **Remote Sensing**: THE future-reading expression. Scrying. Prophecy. Seeing what will happen because the outcome is already Resolved even though the path to it isn't. The destination is visible; the route is not. *(Unverified)*
+- **Vecna analogue**: Alex likes "the isekai vibe of Overlord" but no design exists *(Unverified)*
+- **Concealment**: Depth obscurement. Sound dampening. Light absorption. The deep ocean hides everything. *(Unverified)*
+- **Origin**: Emerged from overlapping life + chaos planes. Insects exposed to chaotic vitality and grew sapient and organized. *(Unverified)*
+- **Feature**: Precision timing. The Clockwork expression makes timing exact — intervals, sequences, durations measured with perfect reliability. THE precision instrument expression. Atomic clocks and chronometers. *(Unverified)*
+- **Affliction**: Scalding burns (ongoing, penetrating). Disorientation from steam blindness. Respiratory distress from superheated air. *(Unverified)*
+- **Source**: Borderlands, rift sites, from creature corpses *(Unverified)*
+- **Feature**: Biological recycling. Waste conversion. Decomposition acceleration. Fermentation — the Propagative yeast spreading the Consumptive conversion of glucose into ethanol. The basis of all brewing and biological processing. *(Unverified)*
+- **Nullify**: At specialized application, EMP-equivalent discharge. The battery releasing its stored energy as a single disruptive pulse that overwhelms electrical systems. *(Unverified)*
+- **Senses**: Laser-based detection and analysis. Precise geometric scanning. The sensor grid. Information gathered through structured light. *(Unverified)*
+- **Senses**: Temporal detection. Perceiving the exact timing of events, processes, and changes. The instrument that measures not what happened but exactly when. *(Unverified)*
+- **Feature**: Biological compatibility. Serum materials interface with living systems without rejection. The foundation for all Forge-mediated biological augmentation. The reason Kan-tech implants don't kill the host. *(Unverified)*
+- **A. Overall Mastery**: Total potential. Governs the absolute ceiling. Determines maximum ÆP expenditure per rote. *(Unverified)*
+- **Enhanced Trait**: Overclocked performance. Pushing systems beyond rated capacity. Spend Stamina to double output for one action. The item moves one step down condition track after overclocking. Spectacular visual output — sparks, steam, lightning. *(Unverified)*
+- **Environment**: Temperature drop across area. Ice formation on surfaces creating slippery terrain. Frost conditions. Moisture crystallization. *(Unverified)*
+- **Feature**: Weight increase. Density enhancement. Pressure resistance for the wielder. *(Unverified)*
+- **Defense Bonus**: added to the target's defense TN *(Unverified)*
+- **Senses (negative)**: Truth-detection suppressed. Divination, lie detection, insight checks — all return "genuinely uncertain" because the Palimpsest hasn't Resolved which description is primary. You can't detect a lie that might still become truth. *(Unverified)*
+- **Feature**: Classification field. Everything within the Censor's operational range is treated as classified. Information cannot leave the area. The secure room. *(Unverified)*
+- **Affliction**: Probability sickness. Exposure to raw Casino expression causes decision paralysis, anxiety, and reality dissociation as the target perceives all possible outcomes simultaneously without the ability to determine which will resolve. *(Unverified)*
+- **Soak**: flat damage reduction per hit *(Unverified)*
+- **Protection**: At specialized application, hydraulic pressure as resistance to incoming force. Pressure-balanced armor absorbing impact by distributing it through fluid medium. *(Unverified)*
+- **Enhanced Trait**: At specialized application, Whispers broadcasting learned capability directly into the recipient's awareness. Temporary skill transfer. Not training — download. *(Unverified)*
+- **Affliction**: Entombment at high Stage. Burial. Encasement in stone. The earth swallowing targets. *(Unverified)*
+- **Communication**: At specialized application, the battery powering communication infrastructure. The electrical current that carries signal. Without the Battery, the Grid has no sustained power source. *(Unverified)*
+- **Swimming**: Predatory aquatic pursuit. The shark, the orca, the crocodile. Metabolic acceleration applied to aquatic movement. *(Unverified)*
+- **Affliction**: Electrical stun propagated through chain. Nervous system disruption cascading through connected targets. System overload in constructs and technological devices. *(Unverified)*
+- **Speed (Swimming)**: Enhanced movement through liquid medium specifically. The Abyss facilitates travel through water. *(Unverified)*
+- **Mutation Pressure Zones**: high Formation Stage slow accumulation *(Unverified)*
+- **Structure**: Central chamber with notice boards, contract tables, equipment lockers *(Unverified)*
+- **Environment**: Dust storm conditions. Reduced visibility. Abrasive atmosphere. Terrain alteration through sand/particulate deposition. *(Unverified)*
+- **Deflect**: THE proportional response expression. Attacks reflected back at the attacker at equal force. Damage dealt is damage received. The mirror defense that punishes aggression with exact reciprocity. *(Unverified)*
+- **Feature**: Chain discharge. Electrical arc jumps to nearest metal-wearing creature within range as free action each round. Metal armor, weapons, and items in proximity are potential secondary targets for discharge. Cannot be suppressed — the charge is the material. *(Unverified)*
+- **Nullify**: At specialized application, disrupting timing-dependent processes by imposing the Clockwork's own timing cycle. Overriding enemy action sequences. Forcing mechanical rhythm onto organic or chaotic systems. *(Unverified)*
+- **Comprehend**: Magnified analysis. Perceiving detail invisible to normal observation through optical enhancement. The microscope's revelation. *(Unverified)*
+- **Protection**: Self-sealing property. Fills its own fractures with molten material. Resists condition track degradation downward. Slag heals itself. *(Unverified)*
+- **Concealment**: The empty shell as camouflage. Looks occupied from outside, nothing inside. The decoy. The false front. The primary expression — the Husk exists to appear to be something it isn't. *(Unverified)*
+- **Illusion**: At specialized application, narrative-logic constructs that function because they SHOULD be real. The Fey bridge holds because everyone believes it will. Disbelief collapses it — but so does engineering analysis, which is why Fey construction and Forge construction are incompatible. *(Unverified)*
+- **Environment**: Terrain hazard creation. Molten pools. Persistent fire zones as difficult terrain with ongoing damage. Area denial that lasts. *(Unverified)*
+- **Move Object**: Electromagnetic force at specialized application. Magnetism as electrical phenomenon — attracting or repelling metallic objects. *(Unverified)*
+- **Enhanced Trait**: At specialized application, alchemical enhancement compounds. Performance-enhancing substances through chemical processing. Potions, elixirs, stimulants. The pharmaceutical approach to Enhancement. *(Unverified)*
+- **Soul Queue Politics**: jurisdictional disputes, soul stone black market *(Unverified)*
+- **B-11 Acid**: bypasses Soak on critical hit *(Unverified)*
+- **10-node session architecture**: canonical per Alex, needs integration with Doc 4C *(Unverified)*
+- **Feature**: Persistent ambient glow. No fuel consumed externally; biological process sustains output indefinitely. The mushroom that glows in the dark forever. *(Unverified)*
+- **F-01 Spire**: Psionic resonance, information processing. Deepguard relay network backbone. *(Unverified)*
+- **Communication**: Active information retrieval and transmission. The crystal that doesn't just store data — it processes queries and returns answers. THE computational expression. *(Unverified)*
+- **Transport**: Rune-tracked wagons, half-track golems, dirigible lighters *(Unverified)*
+- **Environment**: Biological terrain cycling. Dead zones becoming fertile. Barren ground becoming loam. The forest floor turning over. Ecological succession accelerated. *(Unverified)*
+- **Environment**: Fog creation. Humidity saturation. Atmospheric alteration. Visibility reduction. *(Unverified)*
+- **Communication**: Visual information display. Data rendered as perceivable light constructs. The holographic briefing. The heads-up display. *(Unverified)*
+- **What**: The creature develops genuine emotional attachment to the handler *(Unverified)*
+- **Nullify**: At specialized application, disrupting any Resolved or predetermined outcome by reintroducing probability. Breaking fate-locks, curses, and predestination by making the outcome Contested again. The opposite of the Loop. *(Unverified)*
+- **Create**: Rapid biological structure construction. Living walls, bridges, shelters grown in minutes rather than seasons. Crude but immediate. *(Unverified)*
+- **Transform**: Precision-directed biological modification. THE controlled mutation expression. The Calibrated crystal selecting which of V-16's possible rewrite pathways activates. Without F-16: random mutation. With F-16: specific trait modification. *(Unverified)*
+- **Environment**: At high Stage, growth altering terrain. Living walls, root barriers, canopy creation. The forest asserting itself. *(Unverified)*
+- **Move Object**: Slow inexorable pull. Drag. Patient cohesive force. Mire doesn't throw — it sinks. *(Unverified)*
+- **Illusion**: Historical overlay. The space shows what it was alongside what it is. Not a false image — a TRUE image from a different time visible in the current moment. THE "see the past" expression. *(Unverified)*
+- **Cancellation**: the expressions annihilate. Without mediation, one destroys the other or both are consumed. Antithetical expressions without Forge mediation produce cancellation. *(Unverified)*
+- **Senses**: Biological light production. Illumination through organic chemistry, not combustion. The baseline expression at any Formation Stage. The living torch. *(Unverified)*
+- **Illusion**: False signal. Anglerfish lure principle. Misleading bioluminescent patterns attracting targets to wrong location, presenting false information, or displaying false size/position. Light as deception. *(Unverified)*
+- **Feature**: Dramatic logic. Rules operate on narrative appropriateness rather than consistent application. The improbable succeeds when the story demands it. The certain fails when failure would be more interesting. Not random (that's Casino) — dramatically structured. *(Unverified)*
+- **Transform**: THE alchemical processing expression. Chemical conversion. Refining raw materials into processed products. Synthesizing compounds. Separating mixtures. The foundation of all alchemy. *(Unverified)*
+- **Feature**: Universal chemical carrier. Any Substance Delivery compound applied to Vat material has doubled effect duration. The Vat acts as perfect solvent — it holds anything in solution without degrading the payload. *(Unverified)*
+- **Concealment**: Ice refraction/reflection creating visual distortion at specialized application. Glare. *(Unverified)*
+- **Environment**: At high Stage, the historical overlay becomes partially tangible. The old building's walls provide actual cover. The historical fire produces actual heat. The past becomes locally real alongside the present. *(Unverified)*
+- **Comprehend**: At specialized application, reading mechanical systems. Understanding how a machine works by perceiving the flow of directed pressure through its architecture. *(Unverified)*
+- **Feature**: Contact delivery enhancement. On hit or contact, the Interfacial expression delivers the item's active effect with +1 Formation Stage effective power at the point of contact. *(Unverified)*
+- **Concealment**: Sandstorm obscurement. Particulate cloud reducing visibility. Dust as visual screen. *(Unverified)*
+- **⚙ EMULSION**: antithetical planes forced together by Hidden Forge catalyst; cosmological event *(Unverified)*
+- **Competing**: the expressions conflict. Each pushes toward a different outcome. The combination requires negotiation — one may dominate, or both may persist in tension. *(Unverified)*
+- **Speed**: Predatory pursuit velocity. The cheetah's sprint. Metabolic energy converted directly to movement speed. *(Unverified)*
+- **Function**: Competing for: *(Unverified)*
+- **Environment**: The geography of completion. Bone fields. Fossil beds. Terrain that is permanently, immovably settled. Nothing grows here because nothing can change here. *(Unverified)*
+- **"Cosmic Friction Pool"**: antagonistic mechanic linking FP spends to Selûnæ-targeted consequences *(Unverified)*
+- **Affliction (area/network)**: Conditions distributed through biological connection. What affects one node can be propagated to adjacent nodes. Shared experience as weapon — poison one, poison all connected. *(Unverified)*
+- **Variable**: Reactive biological Variable. The threat determines the adaptation. The organism produces whatever biological effect counters what it's currently facing. Controlled by the environment, not the organism. *(Unverified)*
+- **Quickness**: Narrative compression. "This boring part is over." The Dream skips the uninteresting duration because the story doesn't require it. Temporal compression through narrative logic. *(Unverified)*
+- **Senses**: Electrical detection through infrastructure network. Sensing what passes through or contacts the directed system. *(Unverified)*
+- **External**: Visible gestures, audible incantations. Blocked by restraint/silence. *(Unverified)*
+- **Create**: Information products. Processed data. Correlated analysis. The crystal that takes raw input and produces meaningful output. *(Unverified)*
+- **Weaken**: Degrading the logical consistency of any system in proximity. Plans become unreliable because the causal framework supporting them contains a contradiction. Strategy fails because cause-and-effect is broken. *(Unverified)*
+- **Nullify**: Counter-probability manipulation. The outcome is already Resolved — attempts to shift probability bounce off because there's nothing left to shift. Anti-Luck Control. *(Unverified)*
+- **Wall-Crawling**: Biological adhesion on vertical and inverted surfaces. The Venus flytrap's grip applied to locomotion. Gecko-pad adhesion through biological surface chemistry. *(Unverified)*
+- **Transport Vehicles**: Specialized wagons designed for creature hauling (see Part 4) *(Unverified)*
+- **Feature**: Emulsion mediator function. F-16 is used as the Forge catalyst in Biotic Paradox compounds. The Crystal+Chem combination delivers the geometric precision through liquid carrier into biological systems at the molecular interface. *(Unverified)*
+- **Comprehend**: Pattern recognition through geometric analysis. THE analytical expression. Reading complex systems by perceiving their geometric structure. The crystal that understands what it observes. *(Unverified)*
+- **Cooperative**: catalyst reinforces existing expressions. Evolution deepens what's already there. Resolution: stabilize amplified output. *(Unverified)*
+- **◆ Natural**: forms without catalyst under appropriate conditions *(Unverified)*
+- **Create**: At specialized application, mechanical fabrication. Mass production of standardized components. Consistent quality. Reproducible results. The assembly line. *(Unverified)*
+- **Presence**: Major cities, regional capitals *(Unverified)*
+- **Engagement Duration**: how long the phrase runs *(Unverified)*
+- **Regeneration**: Self-healing under stress. The creature repairs damage continuously during exertion. Combat healing that doesn't require separate action. THE "healing tank" expression. *(Unverified)*
+- **Environment**: Atmospheric alteration. Wind creation. Pressure change. Weather manipulation. The sky as controllable medium. *(Unverified)*
+- **Communication**: Bio-electrical signal bridging. The neural interface. Thoughts transmitted as electrical signal and received as biological impulse. *(Unverified)*
+- **Affliction**: Red pill moment. The target realizes their perceived reality is constructed. Existential crisis. Psychological damage from the gap between what they believed and what is. Not the same as Horror (which reveals something terrible) — Simulation reveals that the entire framework was artificial. *(Unverified)*
+- **AE Stamina wip part 5**: NOT a stamina document. It's a ~100,000+ word Gemini conversation transcript containing the entire PF1e/PF2e class deconstruction project. Contains correct HP formula, complete defensive pillar formulas for all four pillars, condition track names/values, XP cost tables (two competing versions), 200+ extracted talents, and the Triskelion archetype framework. Uses 11-12 skills (not the canonical 16). *(Unverified)*
+- **Feature**: Maximum unpredictability field. Everything in range produces maximum variance. No plan survives contact. No prediction holds. No routine works twice. *(Unverified)*
+- **Protection**: Electrified containment. The pressure boundary gains an electrical discharge component that punishes breach attempts. *(Unverified)*
+- **Inventory**: Standard healing potions, antidotes, anti-curse compounds, reagent stocks *(Unverified)*
+- **(F)**: Feat-derived (PF1e/3.5e feat conversion, April 10 pass) *(Unverified)*
+- **Feature**: Outcome selection. Once per scene, the wielder may select which of the item's active effects triggers rather than the default activating. The Calibrated expression gives the wielder the Forge's selection function. *(Unverified)*
+- **Morph**: At high Stage, the Viral component means the disease itself mutates per generation. Each wave of the plague may express different symptoms. Unpredictable without Forge Calibrated containment. *(Unverified)*
+- **Feature**: Biological binding agent. Adhesive secretion. Grasping surfaces. The glue that's alive. *(Unverified)*
+- **Environment**: Fog/vapor creation. Pressure alteration. Humidity. Atmospheric saturation. *(Unverified)*
+- **Enhanced Trait**: THE biological integration enhancement. Crystal information architecture delivered through chemical medium directly into biological systems. Subdermal augmentation. Implant technology. Permanent attribute modification through installed Crystal template. *(Unverified)*
+- **Variable**: Anti-determination Variable. Like Casino but actively hostile to consistency. Each manifestation contradicts the previous one. The universe refusing to repeat itself. *(Unverified)*
+- **Enhanced Trait**: Endurance and exhaustion immunity. The Diesel rhythm keeps the wielder going past biological limits. Not stronger — relentless. The march that doesn't end. *(Unverified)*
+- **Feature**: Self-sustaining spectral presence through drain. Unlike the Wraith (ambient saturation), Shadow actively feeds. More powerful but predatory — it needs victims to persist. *(Unverified)*
+- **Protection**: Biological armor that regrows between hits. Living hide. Bark-scale. Biological defense that replenishes. *(Unverified)*
+- **Illusion**: Information display. Holographic projection. Visual data rendered as geometric light. Not false images in the Palimpsest sense — real photonic output structured by Crystal geometry. *(Unverified)*
+- **Weaken**: Material embrittlement through rapid thermal contraction. Cold makes ductile materials temporarily Brittle. Direct Brittle Flag interaction — Frost can IMPOSE the Brittle condition on materials that normally don't carry it. *(Unverified)*
+- **Weaken**: At specialized application, forcing more energy through a target system than it can handle. Degrading function through overload rather than through damage. *(Unverified)*
+- **Example**: Voidbark (plant from a void-plane bleed; used in potions of transposition) *(Unverified)*
+- **Teleport, Dimensional Travel, Time Travel**: Palimpsest primary. Other planes provide partial support at best. *(Unverified)*
+- **Criminal Economies**: shadow versions of every college's commercial services *(Unverified)*
+- **Weaken**: At specialized application, exploiting identified flaws to degrade a system's integrity. Not brute force — surgical exploitation of pre-existing weakness. The crack becomes a breach. *(Unverified)*
+- **Senses**: Intuitive perception. Knowing things without evidence because narrative logic provides the information. "I just know" as a legitimate epistemology within the Fey Logic field. *(Unverified)*
+- **Leaping**: Enhanced jump distance through reduced effective gravity. Assisted by upward air current. *(Unverified)*
+- **Senses**: Predatory perception. Scent tracking. Motion detection. Thermal sense. The hunter's awareness. Prey location through biological sensory enhancement. *(Unverified)*
+- **Communication**: At specialized application, mechanical timing as communication medium. Pressure pulses. Regular rhythmic signals. The telegraph principle. *(Unverified)*
+- **Enhanced Trait**: Grapple/grip enhancement at specialized application. The wrestler's mud. *(Unverified)*
+- **Concealment**: Particulate cloud reducing visibility. Sand-screen. Dust veil. *(Unverified)*
+- **Enhanced Trait**: At specialized application, power amplification. The Battery providing surplus energy to connected systems, enabling them to operate at higher output than their own capacity allows. The booster pack. *(Unverified)*
+- **Weaken**: Structural undermining. Foundation loosening. Material saturation weakening structural integrity over time. *(Unverified)*
+- **Communication**: Information transmission through electrical charge in crystalline medium. Deepguard relay network compatible for remote access. Data shared across networked crystals. *(Unverified)*
+- **Affliction**: Blindness from abrasive particulate. Skin abrasion. Respiratory distress from inhaled grit. Dehydration through moisture stripping. *(Unverified)*
+- **Communication**: Information storage and retrieval. The crystal as permanent data medium. Maximum archival capacity in minimum volume. *(Unverified)*
+- **Religious Heterodoxy**: local deities, positional divinity, potential Lacuna entities *(Unverified)*
+- **Quickness**: At specialized application, sustained throughput rather than burst speed. The marathon runner rather than the sprinter. Consistent production over long duration. *(Unverified)*
+- **Frame Narrative**: stories inside stories providing plausible deniability; home = Collegiate unreliable narration *(Unverified)*
+- **Purpose**: Job boards, mission briefings, pay distribution *(Unverified)*
+- **Monomyth**: departure/initiation/return at safe narrative distance; home = Guild layer *(Unverified)*
+- **Feature**: Absolute reliability. The item performs exactly as specified every time. No variance. No critical success, no critical failure. Take average on all dice. Perfectly predictable output. *(Unverified)*
+- **Behavioral shift**: Personality may change subtly; creature becomes more attuned to the element's philosophy *(Unverified)*
+- **Concealment**: Classified status imposed on targets or information. The sealed file reads as blank. The person under Censor reads as unremarkable. Not invisible — simply not worth investigating. *(Unverified)*
+- **Communication**: At specialized application, sharing the "red pill" perception with others. Transmitting the ability to see behind constructions. "Let me show you what's actually here." The whistle-blower's tool. *(Unverified)*
+- **A. Construction Pool**: Buys geometry: Target shape, Range band, Duration step. Points spent from the Construction Menu. *(Unverified)*
+- **Uniforms**: Heavy canvas dusters over brigandine, steel helms with arcane respirators, rune-wired gauntlets, field goggles, badge-plates *(Unverified)*
+- **Protection**: At specialized application, sustained defensive function at minimum effectiveness regardless of damage. The armor that never fully fails. Doesn't excel at any point — never reaches zero. *(Unverified)*
+- **Feature**: Dramatic appropriateness. The item or effect responds to narrative context. Things work when they should work and fail when failure would be meaningful. Not random — story-shaped. Not player-controlled — GM-interpreted. *(Unverified)*
+- **F-15 Clockwork**: Precision timing + mechanical determinism. Luck Control through CALCULATION, not fate. Chronosynclastic Institute's philosophical foundation. *(Unverified)*
+- **Senses**: Electrical detection. Sense metal and conductors in range. Lightning-flash illumination. At specialized application: electromagnetic field reading. *(Unverified)*
+- **Senses (negative)**: Sensory interference through particulate density. Tracking disrupted. Observation impaired. Acoustic masking from constant abrasive hiss. *(Unverified)*
+- **What**: The creature recognizes the handler as owner/provider but has no deep emotional investment *(Unverified)*
+- **Create**: Long-range precision items. Directed infrastructure with geometric precision. Optical instruments, astronomical apparatus, navigation tools. *(Unverified)*
+- **Transform**: every plane can alter what things are through its native processes. *(Unverified)*
+- **Aliases**: The God-King, The God of the Sun *(Unverified)*
+- **Feature**: Sustained exertion without fatigue for duration. The hunt that doesn't tire. Metabolic efficiency under stress. *(Unverified)*
+- **Weaken**: Prolonged exposure degrades material integrity. Melting, warping, structural softening. *(Unverified)*
+- **Protection**: every plane offers defensive expressions. *(Unverified)*
+- **Presence**: Government chambers, college councils, nobility courts *(Unverified)*
+- **Presence**: Across all inhabited lands—small towns, caravan routes, borderlands *(Unverified)*
+- **Concealment**: At specialized application, finding the perceptual blind spots where reality isn't being observed consistently. The Error hides in rendering gaps. Not invisible — existing in the places the universe doesn't bother checking. *(Unverified)*
+- **Enhanced Trait (Might)**: THE force multiplication expression. The wielder effectively counts as one size category larger for all Might-based maneuver checks. Small inputs produce large outputs. The power-loader. *(Unverified)*
+- **Aspects**: Luxos (The Gilded Mask), Ignislor (The Burden of the Crown) *(Unverified)*
+- **Luck Control**: At specialized application, the Gambit can be Resolved at the moment of the user's choosing. The con pays off when the con artist decides which version the Palimpsest selects as primary. *(Unverified)*
+- **Environment**: Spore cloud as atmospheric alteration. Biological atmosphere creation. Pollen fields. Altered air quality. *(Unverified)*
+- **Enhanced Trait (collective)**: Shared combat bonuses. Flanking from network awareness. Coordinated defense. The swarm fights as one organism with many bodies. Each member is more effective because of the others. *(Unverified)*
+- **Senses**: Biological detection through network presence. The parasite perceives what the host perceives. Every host is a sensor node. *(Unverified)*
+- **Wounded Mentor**: the wound is the wisdom *(Unverified)*
+- **Enhanced Trait**: Biological structural reinforcement at specialized application. Hardening tissue, reinforcing bone, densifying muscle fiber. Construction applied to performance. *(Unverified)*
+- **Flight**: At Stage 5+, the Gas expression fully overcomes gravity. The natural progression of the Void Sky's upward push. *(Unverified)*
+- **Services**: Custom rune-work, armor modification, tool crafting *(Unverified)*
+- **Purpose**: Food, drink, rest, recovery *(Unverified)*
+- **Design**: Multi-chambered, heavily rune-lined, climate-controlled *(Unverified)*
+- **Affliction**: Memory degradation in targets. Not deletion (that's S-16 Amnesia) — loss of clarity. The target remembers something happened but can't recall specifics. The emotion remains; the details dissolve. *(Unverified)*
+- **XP yield baseline**: ~9-10 XP per session, difficulty on a 1-5 relative scale vs. Mastery *(Unverified)*
+- **Weaken**: Maximum entropy. Everything near Oblivion degrades toward its most inert possible state. Not targeted — universal. The ambient decay field. *(Unverified)*
+- **Transform**: Biological material conversion. One tissue type becomes another. Skin becomes scales. Muscle fiber restructures. Bone density rewrites. Structural change, not cosmetic. *(Unverified)*
+- **Nullify**: At specialized application, the Crystal's geometric precision identifies and isolates flawed or corrupted information. The diagnostic crystal that finds the error in the data. *(Unverified)*
+- **Communication**: Information architecture. Crystal lattice as data storage and transmission medium. The structural backbone of Deepguard relay networks. Not message-sending but infrastructure-providing. *(Unverified)*
+- **Senses**: Enhanced accuracy. "Fated to land." Attacks that connect because the Prophecy has already Resolved the hit. The target was always going to be in that exact spot. THE accuracy-enhancement expression for combat divination. *(Unverified)*
+- **Move Object**: Pressure as motive force. Pistons, pneumatics, directed gas flow. The mechanical engine converting pressure into directed movement. *(Unverified)*
+- **Synod of Endings (W3)**: S-01 through S-16. The Stabilizer. Phase wheel: Osseous(Solid)/Archival(Liquid)/Spectral(Gas)/Void(Plasma). 16 isotopes + effect summary. *(Unverified)*
+- **Role**: Funding, logistics, legal authority, licensing, magistrate offices *(Unverified)*
+- **Environment**: Biological terrain creation and destruction simultaneously. Roots cracking foundations, vines covering structures, canopy blocking light. The landscape replaced with living material. *(Unverified)*
+- **Communication**: Narrative-level information exchange. The Dream communicates through symbols, omens, thematic resonance, and dramatic irony rather than language. You understand because the story requires you to understand. *(Unverified)*
+- **Enhanced Trait (collective)**: Network coordination bonuses. Multiple organisms acting with shared information. Flanking from network awareness. Collective defense. *(Unverified)*
+- **Create**: Hybrid mechanical-electrical items. Infrastructure that carries both pressure and current simultaneously. The powered machine. *(Unverified)*
+- **Nullify**: At specialized application, dissolving or neutralizing expressions at the contact boundary. Chemical counteragent delivery at the interface. *(Unverified)*
+- **Danger**: 6-9 (collective action is highly coordinated) *(Unverified)*
+- **Preparation**: A binding contract written out, detailing the terms of capture, duration, and constraints. Requires only a few minutes. *(Unverified)*
+- **Senses**: Networked detection. Each member is an independent sensor. Distributed surveillance grid. Effectively impossible to approach a Hive-aware group undetected. *(Unverified)*
+- **Communication**: Misleading information that the target cannot distinguish from truth because it might still BE truth. The difference between lying and gambling. *(Unverified)*
+- **Comprehend**: Automated pattern recognition. The crystal that analyzes data without sapient direction. Processing power. The computational engine. *(Unverified)*
+- **Reproducibility documentation**: isolation of critical variables *(Unverified)*
+- **Function in Operations**: Re-stocking teams before missions; processing harvested materials *(Unverified)*
+- **Cephalarchs**: void-touched intelligences breaking probability models *(Unverified)*
+- **Concealment**: Darkness generation. Shadow IS the Synod's Inhibitory principle applied to photonic energy — the active suppression of light. Not merely absence of light but enforced darkness. *(Unverified)*
+- **Move Object**: Electromagnetic motive force directed through mechanical infrastructure. The electric motor. *(Unverified)*
+- **Protection**: At specialized application, mechanical reliability applied to defensive systems. Armor that never fails to deploy. Shields that always activate on trigger. Defensive mechanisms with zero malfunction rate. Not stronger defense — more reliable defense. *(Unverified)*
+- **Affliction (contagion)**: THE disease expression. Biological disruption spreading host-to-host. Each successful transmission enables further transmission. Autocatalytic progression — rate of spread increases with each new carrier. *(Unverified)*
+- **Feature**: Persistent heat and moisture. Anti-freeze. Humidity maintenance. *(Unverified)*
+- **Nullify**: Record degradation. THE anti-divination expression through signal corruption. Fate-reading targeting the Corrupt field receives degraded, unreliable information. Not blocked (that's Concealment) — corrupted. Worse than blocked because the reader doesn't know which parts are wrong. *(Unverified)*
+- **Concealment**: Uncertain identity. The target's true nature hidden behind a Gambit that keeps "is this real?" genuinely Contested. Not invisible — indeterminate. *(Unverified)*
+- **[Stance]**: Persistent state, one active at a time, switch as swift action. *(Unverified)*
+- **Nullify**: At specialized application, data corruption. Introducing conflicting electrical patterns into Crystal storage to degrade or overwrite stored information. The Forge's version of targeted information warfare against artificial records (distinct from S-16 Amnesia which targets soul records). *(Unverified)*
+- **Feature**: Persistent information field. The area knows and tells anyone who enters. Walls that inform. Ground that remembers footsteps and reports them. *(Unverified)*
+- **Affliction**: Grapple, entrap, restrain through biological growth. Vines, tendrils, grasping roots, constricting coils. The primary expression. *(Unverified)*
+- **Weaken**: Structural degradation. Item condition track damage on struck items. Soak reduction through material dissolution. THE anti-equipment expression. *(Unverified)*
+- **Communication**: Biological network communication. Shared awareness between connected organisms. Information distributed through fungal/root network. THE biological communication expression. *(Unverified)*
+- **Magistrate Office**: Where missions are authorized and confirmed *(Unverified)*
+- **Lacunae**: gaps where the Smoothing Effect didn't take *(Unverified)*
+- **Create**: Mineral and stone permanent structures. Fossils. Crystallized permanent material. Building from the endpoint — structures that are already at their most stable state when constructed. *(Unverified)*
+- **Environment**: Terrain alteration. Difficult terrain creation. Movement impediment over area. *(Unverified)*
+- **Feature**: Chain effect. The primary Propagated expression. On activation, effect propagates to all valid targets within Formation Stage × 5 ft. Each target can pass the effect to the next valid target once (chain limit = Formation Stage). *(Unverified)*
+- **ESL**: the power (capped by min(Effect Tier, Isotope Tier, Mastery)) *(Unverified)*
+- **Feature**: Persistent heat. Cold immunity. Thermal mass that sustains temperature for days. *(Unverified)*
+- **Enhanced Trait**: At specialized application, the shared charge pool providing network amplification. Multiple connected items operating at higher combined output than their individual capacities would allow. *(Unverified)*
+- **Equipment**: Condenser packs, bolt-casters, shock-staves, flare-wands, portable ward pylons *(Unverified)*
+- **Environment**: Decay field. Everything in area ages faster. Structures settle. Materials degrade. Food spoils. Wood rots. Metal oxidizes. The timeline compressed. *(Unverified)*
+- **Transform**: Precision alchemical transformation. Interfacial chemical conversion with Calibrated selection of which reaction proceeds. The compound that produces EXACTLY the desired product with no side reactions. *(Unverified)*
+- **Comprehend**: Chemical analysis. Reading what a substance IS by examining how it behaves at phase boundaries. The analytical chemist's primary tool. *(Unverified)*
+- **Feature**: Preservation through cold. Organic material doesn't decay at low temperature. The earliest food preservation technology. *(Unverified)*
+- **Feature**: Biological connectivity itself. Shared resources. Network awareness. The substrate that connects living things. *(Unverified)*
+- **Flight**: THE Forge's flight expression. Sustained directional propulsion through pressure focused by Crystal geometry. Not anti-gravity (that's Palimpsest narrative logic overriding physics) and not biological flight (that requires Borderlands Air interaction with Font-grown wings). This is ENGINEERING flight — lift and thrust generated, directed, and maintained through Forge process. *(Unverified)*
+- **Feature (critical risk)**: Explosive failure. If fully depleted in a single encounter, the chemical-electrical tension the Forge holds in balance can catastrophically release. Vigor check for wielder or take fire+acid damage from catastrophic decompression. This isn't a flaw — it's an inherent property. Batteries are powerful because they're dangerous. *(Unverified)*
+- **Protection**: Cohesive resistance. Surfaces coated in Mire resist penetration. The mud absorbs impact by deforming around it. *(Unverified)*
+- **Affliction**: Unpredictable failure conditions. Equipment malfunctions randomly. Footing fails without warning. The target cannot trust any tool, surface, or system. Every step is the one that might break. *(Unverified)*
+- **Portfolio**: The Sun, Fire, and Leadership in all its forms (both good and bad). *(Unverified)*
+- **Nullify**: Record asserting archived truth against illusion and deception. The record says what happened. The illusion says otherwise. The record wins. Counter-deception through documented fact. *(Unverified)*
+- **F-11 Diesel**: Sustained operation. Self-sustaining loop. Setting B industrial backbone. *(Unverified)*
+- **Structure**: One-stop-shop providing: *(Unverified)*
+- **Cooperative**: the expressions reinforce each other. The combination amplifies what both already do. Produces stronger output with minimal instability. *(Unverified)*
+- **Enhanced Trait**: At specialized application, the Clockwork timing providing optimal action timing. Every movement at the mechanically ideal moment. Maximum efficiency without enhanced force. *(Unverified)*
+- **Create**: Biological materials from decomposed source. Nutrient-rich soil, growth substrate, fertile medium. You provide the dead matter; Rot-Garden provides the growing medium. *(Unverified)*
+- **Feature**: Weight increase. Density. Knockback resistance. Structural permanence. The "immovable" property. *(Unverified)*
+- **Concealment**: Selective visibility. The Haunt chooses what it projects and what it withholds. Appearing to some observers, invisible to others. Revealing itself in reflections but not directly. The ghost's control over its own manifestation. *(Unverified)*
+- **Affliction**: Crushing pressure. Suffocation. Disorientation. Sensory deprivation. The Abyss imposes isolation. *(Unverified)*
+- **Immunity**: THE fate-lock expression. A specified outcome is guaranteed for the next triggering event. No variance roll. The result is predetermined. At low Stage, a single guaranteed hit or save. At high Stage, an entire event sequence fixed in advance. *(Unverified)*
+- **Cancellation**: catalyst threatens to neutralize an existing expression. Evolution strips something away. Resolution: prevent loss or accept the change. *(Unverified)*
+- **Flight**: At Stage 3+, the Gas expression fully overcomes gravity. The natural progression of the Void Sky's upward push. *(Unverified)*
+- **Move Object**: Internal combustion motive force. THE industrial power expression. Fuel consumed at the Chem interface, pressure generated, directed through Channeled infrastructure into mechanical work. Maximum sustained force output of any Forge isotope. *(Unverified)*
+- **Affliction**: At specialized application, injecting disruptive Crystal patterns into biological systems. Bioweapon delivery through Forge precision. The offensive Serum: wrong template, right delivery. *(Unverified)*
+- **Affliction**: Forced repetition. The target is compelled to repeat an action, relive an experience, return to a location. The curse of the Loop. The Groundhog Day expressed as a condition. *(Unverified)*
+- **[Swift]**: Uses swift/minor action. *(Unverified)*
+- **Nullify**: At specialized application, breaking rigid rules and constraints. If a law or limitation doesn't serve the narrative, Fey Logic erodes it. Locks open for protagonists. Cages fail to contain the righteous. The rules were always going to break for this character at this moment. *(Unverified)*
+- **Example**: A dire wolf captured from the borderlands has: *(Unverified)*
+- **Environment**: Terrain creation and alteration. Stable ground. Structural modification of space. Earthworks. *(Unverified)*
+- **Create**: Geometric information architecture. Crystal lattices designed to hold, process, and retrieve specific data. The foundation of Kan-tech computational technology. *(Unverified)*
+- **Feature**: Chain effect through directed infrastructure. The Propagated character adds electrical arc potential to the Channeled routing. High output, high maintenance. *(Unverified)*
+- **Protection**: Hydrostatic pressure as defense. Compression resistance. The deeper the Abyss expression, the harder it is to penetrate. *(Unverified)*
+- **Anomalous Biological Phenomena**: unclassified encounters *(Unverified)*
+- **Feature**: Grip. Non-slip surfaces. Enhanced grapple/hold maintenance. The craftsman's use. *(Unverified)*
+- **Affliction**: Slowed (joint crystallization). Restrained (full freeze, especially on wet/water-adjacent targets). Numbness. Frostbite. *(Unverified)*
+- **Senses (negative)**: Information from within a Hazard field is unreliable. Reports from Hazard zones cannot be trusted. Scrying into a Hazard produces contradictory or misleading data not because of interference but because reality in the zone is genuinely inconsistent. *(Unverified)*
+- **Concealment**: Hiding through degraded signal. The target is still present in the probability space but their signal has too much noise to locate precisely. Palimpsest Dust's anti-divination property IS this expression — dead alternatives flooding the read with noise. *(Unverified)*
+- **Transform**: Self-targeted biological restructuring. Not cosmetic Morph but actual structural change — bone density, muscle fiber type, organ configuration altered to match combat requirements. *(Unverified)*
+- **Harvesting**: isotope materials, creature components, Palimpsest artifacts *(Unverified)*
+- **Feature**: Weight reduction. Lightness. Encumbrance reduction. The "featherweight" property. *(Unverified)*
+- **📋 STUB**: Named and placed, no mechanics yet *(Unverified)*
+- **Morph**: At high Stage, the Viral adaptive axis reshapes the biological growth to overcome specific obstacles. Growth that evolves in real time to solve problems it encounters. Roots finding the weakest point in a wall. *(Unverified)*
+- **Protection**: At specialized application, deterrence through guaranteed consequence. The karmic field deters attack because the attacker knows with certainty they will receive exactly what they deliver. *(Unverified)*
+- **Feature**: Permanent experiential archive. The recording cannot degrade. Perfect fidelity memory storage that does not lose resolution over time. *(Unverified)*
+- **Enhanced Trait**: At specialized application, accessing the skill-memory of a recorded expert. The Echo grants temporary competence by letting the user experience what expertise feels like. Not permanent training — but enough to get through the immediate situation. *(Unverified)*
+- **Senses (negative)**: The target's ability to process and record new experiences is compromised. Things perceived are immediately forgotten. The present cannot be retained. *(Unverified)*
+- **Synod of Endings**: the bureaucracy of entropy and the archive of everything that has ended. NOT "the plane of death." *(Unverified)*
+- **Movement**: every plane offers mobility through its native media. *(Unverified)*
+- **Affliction**: Drain conditions. Weakened, exhausted, cold, numb, despairing. The effects of having vitality consumed. Cumulative with exposure. *(Unverified)*
+- **Position 13 — The Games**: formalized combat as entertainment/political proxy *(Unverified)*
+- **Transform**: THE industrial transformation expression. Chemical conversion at the phase boundary. Raw materials becoming refined products. Smelting, refining, processing, purification. The Forge applied to Borderlands material science. *(Unverified)*
+- **Communication**: Parasitic network as communication channel. The Cordyceps coordinates its hosts through biological signals. Shared awareness imposed rather than voluntary. *(Unverified)*
+- **Create**: High-output industrial compounds and items. Combustion-powered construction and processing infrastructure. *(Unverified)*
+- **Luck Control**: Karmic balance. Positive actions generate positive probability shifts; negative actions generate negative ones. The universe actively tracks the ledger. Not punishment or reward — balance. *(Unverified)*
+- **Create**: Crude structural material from cooled flow. Volcanic stone, basalt. Rough but effective. *(Unverified)*
+- **Create**: At specialized application, growing information architecture. Crystal structures that store and process data. The Deepguard data center as a grown artifact. *(Unverified)*
+- **F-14 Cyberpunk**: Hard-light projection. THE Forge's illusion (construction, not perception). *(Unverified)*
+- **Concealment**: Selective visibility. The Wraith chooses what it projects and what it withholds. Appearing to some observers, invisible to others. Revealing itself in reflections but not directly. The ghost's control over its own manifestation. *(Unverified)*
+- **Affliction**: Blindness through abrasive particulate. Respiratory distress. Desiccation. Skin abrasion. Eye damage. *(Unverified)*
+- **Speed**: Enhanced movement through reduced effective weight. Faster ground travel. The simplest expression. *(Unverified)*
+- **Nullify**: At specialized application, focused energy disrupting specific targets. The surgical laser. Precise energy delivery destroying exactly what needs destroying and nothing else. *(Unverified)*
+- **Loyalty Conflict**: two legitimate obligations, no right answer *(Unverified)*
+- **Weaken**: Thermal degradation through sustained contact. Melts through lower-tier structural materials over extended exposure. *(Unverified)*
+- **Handler Benefit**: Creature prioritizes handler's safety; improved combat performance alongside handler; creature may warn handler of danger *(Unverified)*
+- **Move Object**: Electromagnetic force. Magnetism as chain phenomenon — attracting or repelling metallic objects through propagated field. *(Unverified)*
+- **B-14 Current**: chains to the nearest conductor within range on critical hit *(Unverified)*
+- **Weaken**: Will, personality, and purpose degraded. The capacity to care, to want, to act with intent is consumed. Motivation collapses. Passion dies. *(Unverified)*
+- **Senses**: Focused perception at range. Telescopic vision. Microscopic analysis. THE precision observation instrument. Range increment for all detection doubled. *(Unverified)*
+- **Nature**: Highly mutable; form shifts based on thought and will. Partially dream-like in manifestation. *(Unverified)*
+- **Authority**: Issues handler certs, containment certs, harvest endorsements, route clearances *(Unverified)*
+- **Create**: Precision biological compounds. Engineered mutation triggers with specific, predictable outcomes. The pharmaceutical that produces exactly one mutation and no others. *(Unverified)*
+- **Feature**: Selective surface chemistry. The catalyst surface that chooses which reaction proceeds. The Forge's selection function applied at the chemical interface. *(Unverified)*
+- **Verdant Font**: the engine of biological process: growth, decay, adaptation, mutation. Cancer is as much Verdant Font as healing. NOT "the plane of life." *(Unverified)*
+- **Nested Epic**: content visible only at the right scale; home = Perspective stack itself *(Unverified)*
+- **Feature**: Ash and dust generation. The constant production of settled, stable particulate from formerly complex structures. The Necropolis is always producing residue. *(Unverified)*
+- **Protection**: At specialized application, hydraulic shock absorption. The pressurized fluid absorbing and distributing impact force. Hydraulic dampening as defense. *(Unverified)*
+- **Cursed Commerce**: marks the user as operating outside Sanitized Commerce norms; institutional actors notice *(Unverified)*
+- **Society**: Hierarchical hive structure with queens and castes *(Unverified)*
+- **Affliction**: Chemical corrosion as persistent side effect. The Battery's chemical component corrodes organic materials on prolonged contact. Acrid smell. The cost of portable power storage. *(Unverified)*
+- **Special Trait**: Can split/rejoin population (shed workers, rejoin colony). Colony can act as single entity or many. *(Unverified)*
+- **Affliction**: Petrification at high Stage. The living turned to stone. Biological matter driven to its Mineral endpoint while consciousness persists inside. The Synod claiming a living being. *(Unverified)*
+- **Environment**: Area denial through sustained heat. Temperature alteration. Atmospheric change. *(Unverified)*
+- **Affliction**: Predatory biological conditions. Venom (Consumptive toxin disrupting metabolic function). Fear pheromones (biological intimidation). Territorial marking (chemical area claim). *(Unverified)*
+- **Affliction**: The revelation. THE "you learn something you cannot unlearn" expression. The comfortable description of reality is replaced by the true one, and the true one is worse. Sanity damage. Existential dread. The Horror is not the monster — the Horror is discovering the monster was always there. *(Unverified)*
+- **Environment**: Darkness fields. Areas of suppressed light, suppressed warmth, suppressed awareness. The Shadow's territory where everything is less. Less bright, less warm, less alive. *(Unverified)*
+- **Nullify**: At specialized application, disrupting timing-dependent processes. If a process depends on precise sequence or interval, Clockwork can desynchronize it. *(Unverified)*
+- **Lyra vs. The Maestro**: grand strategic chess match across the clock *(Unverified)*
+- **Elongation**: Adaptive reach modification. Growing longer limbs or appendages as tactical response to reach requirements. *(Unverified)*
+- **Burrowing**: Root tunneling. Aggressive growth penetrating through solid ground. Not the subject moving through earth — the biological growth creating passages. *(Unverified)*
+- **Senses**: Sensor network integration. Data crystals receiving, storing, and correlating input from multiple detection sources simultaneously. The surveillance grid. *(Unverified)*
+- **Emergent**: catalyst combines with item's nature to produce something neither had alone. Most dramatic, least predictable. Resolution: understand and integrate the new property. *(Unverified)*
+- **Senses**: At specialized application, perceiving all possible outcomes simultaneously. Not useful for specific prediction but devastating for pattern recognition — you see EVERY possibility at once, which reveals structural truths invisible when viewing only one timeline. *(Unverified)*
+- **Affliction**: Decision paralysis. The target cannot determine which version to respond to. Action delayed by genuine uncertainty. Every option might be the wrong one because the truth hasn't been selected yet. *(Unverified)*
+- **Senses**: Electrical field detection. Sense all conductors, all electrical activity, all charge differentials within range. The Grid is aware of its entire electrical environment. Metal detection as passive perception. *(Unverified)*
+- **Energy Resistance**: specific resistance by isotope type *(Unverified)*
+- **Architecture**: Fortress-depots with crenel walls, gantries, rail spurs, glass-roof labs *(Unverified)*
+- **Communication**: Experiential projection rather than speech. The Haunt communicates by sharing its emotional and experiential record directly. The living don't hear words — they feel what the ghost felt. Impressions, not sentences. *(Unverified)*
+- **Environment**: Industrial chemical atmosphere. The refinery, the laboratory, the processing plant. Chemical conditions imposed on the working area. *(Unverified)*
+
+## Effects
+
+- **Damage**: Biological damage from disease progression. Tissue degradation. Organ compromise. System failure. The disease killing the host over time.
+- **Effect and its level**: what it does and how strongly
+- **Damage**: Random environmental failure damage. The damage comes from the environment failing rather than directed attack. Ceiling collapses. Floor gives way. Weapon misfires. Branch breaks. The danger is real but sourceless.
+- **Healing**: At specialized application WITH Forge Calibrated mediation: therapeutic gene modification. Rewrite the damaged or flawed template to a functional version. This is how the Harkness Engine implant functions — V-16 at Stage 3+ with Forge mediation maintaining the rewrite continuously.
+- **Healing**: At specialized application WITH Forge Calibrated mediation: therapeutic gene modification. Rewrite the damaged or flawed template to a functional version. This is how the Harkness Engine implant functions — V-16 at Stage 5+ with Forge mediation maintaining the rewrite continuously.
+- **Damage**: Biological self-destruction. The organism consuming itself through uncontrolled replication. Metabolic drain from cells replicating faster than the body can fuel them.
+- **Damage**: At specialized application, fated strikes. Attacks that connect with absolute certainty because the hit was predetermined. Not more forceful — more certain. Accuracy as the damage pathway.
+- **Damage**: Ranged fire damage without combustion. Flash-burn at distance. Radiant energy. Bypasses cover that would stop flame because it doesn't need a fuel path.
+- **Damage**: Electrical damage. Arc discharge. The most mobile destructive force in the Borderlands — reaches everywhere the atmosphere reaches.
+- **Damage**: Abrasive damage. Particulate impact at velocity. Sandblasting. Not as immediately devastating as fire or lightning, but relentless.
+- **Damage**: Structural damage through biological growth. Roots splitting stone. Vines crushing walls. Not sword-strike damage — siege damage. Patient and inevitable.
+- **Damage**: Constriction damage. Crushing through biological grip. Thorns and spines on contact. Digestive secretion at high Stage.
+- **Damage**: Necrotic drain damage. Direct harm through vitality consumption. The Shadow touches and the touched place dies.
+- **Healing**: At specialized application, sustained biological maintenance. Not repair — maintenance. The metabolic support that keeps the body running when it should have stopped. Crude, reliable, ugly. The field medic's engine.
+- **Healing**: At specialized application, the conduit infrastructure providing consistent magical energy feed to biological systems for sustained life support. Medical infrastructure. Not treatment — maintenance.
+- **Healing**: At specialized application, precision pharmaceutical delivery. The right compound at the right concentration at the right tissue interface. Alchemical medicine at its most precise.
+- **Damage**: At specialized application, focused coherent energy. Heat ray. Laser analogue. The Calibrated crystal selecting a single energy path and the Channeled infrastructure delivering it to a precise point.
+- **Damage**: At specialized application, battery discharge as weapon. Concentrated release of stored electrical+chemical energy. Powerful single-shot but depletes the source. The capacitor dump.
+- **Healing**: At specialized application, electrical stimulation of biological repair processes. Galvanic medicine. Nerve regeneration through electrical guidance. The defibrillator principle.
+- **Healing (distributed)**: Healing distributed through the network. Single application spreads to all connected biological targets at reduced individual intensity. Network triage.
+- **Damage**: Fire damage with mass. Both thermal and bludgeoning simultaneously. Slow but devastating.
+- **Damage**: At specialized application, karmic discharge. Accumulated negative karma released as a single destructive event proportional to the accumulated debt. The reckoning.
+- **Healing**: At specialized application, pharmaceutical compounds for molecular repair. Chemical healing through targeted agents. Different from Font healing (biological acceleration) and Galvanism (threshold maintenance) — this is engineered molecular correction of specific damage types.
+- **Damage**: every plane can produce harm through its native expressions.
+- **Damage**: Direct thermal destruction. The most immediate expression. Combustion on contact.
+- **Damage**: Corrosive damage. Dissolution on contact. Penetrates by eating through barriers rather than overpowering them.
+- **Healing**: Renewal through cycle completion. Healing that works by breaking down damaged tissue and rebuilding from the decomposed material. Slower than World Tree direct repair but more thorough for systemic, deep, or chronic damage. The old tissue has to go before the new tissue can come.
+- **Damage**: Cold damage delivered at range. Flash-freeze. Wind-carried thermal drain. Doesn't require contact — the cold arrives on the wind.
+- **Damage**: At high Stage, the Void component consuming the vessel's biological vitality to fuel the Spectral presence. Possession that kills the host slowly as the body is burned as fuel for the ghost's continued function.
+- **B. Effect Tier**: Deep understanding of a particular Effect (Damage, Affliction, Create, etc.). Rated 1-10 per Effect. Determines raw power (Base Effect Rank) and contributes to pool size.
+- **Healing**: Tissue construction. Wound closure. Structural biological repair. THE primary healing expression in the entire system. What Generative Font expression IS when expressed as an Effect.
+- **Damage**: At Stage 8+ ONLY. The Viral axis overwhelms Flora and biological light becomes ionizing radiation. This is the extreme expression, not the default. Nuclear bioluminescence.
+- **Interaction effects**: modifications from other expressions in the same combined state
+- **Damage**: Abrasive damage. Particulate impact at velocity. Sandblasting. Grinding.
+- **Damage**: At specialized application against logic-dependent targets, the Paradox is directly destructive. Constructs, ward networks, and mathematical magical constructions take damage from the unresolvable contradiction in their operating logic.
+- **Damage**: Fire damage with mass behind it. Persistent adhesive burn. Both thermal and bludgeoning simultaneously.
+- **Healing**: THE Forge's unique healing mechanism. Biological threshold maintenance. Electrical stimulation maintaining biological function at the boundary of death. Not tissue repair (that's V-01 World Tree) and not pharmaceutical correction (that's F-05 Vat) — this is preventing the transition from alive to dead by maintaining the electrical conditions that biological function requires. The defibrillator principle.
+- **Healing**: Flora dominant still builds tissue, but the Fauna cycling character means the healing is aggressive — wounds close whether the target is ready or not.
+- **Damage**: Electrical arc discharge. The chain that hits everything conductive in range. The most immediately dangerous Forge isotope because the chain is indiscriminate — it follows conductivity, not intent.
+- **Healing**: At specialized application, biocompatible repair compounds. The Crystal identifies the damage pattern; the Chem delivers the targeted repair agent. Forge healing is diagnostic and surgical — it fixes what it identifies rather than accelerating all biological processes.
+- **Damage**: Devastation through mass. Attacks carry weight that shouldn't exist biologically. Collateral damage from movement alone. The Titan doesn't need a weapon — it IS the weapon.
+- **Damage**: At high Stage, extended exposure to S-16 compounds degrades soul record fidelity. Permanent experiential damage. THIS is why Mortis Aevum classifies S-16 expression compounds as controlled materials — they damage the permanent self.
+- **Damage**: Biological weapons. Claw, fang, venom delivery, predatory strike force. The physical output of predatory biology.
+- **Damage**: Entropic damage. Not struck, burned, or corroded — simply diminished. Energy drains. Biological function slows toward cessation. The cold of the void.
+- **Damage**: THE Forge's primary direct damage expression. Both pressure (fire) and electrical damage simultaneously. Each damage type applies to Soak separately — if the target resists fire but not electrical, they still take the electrical. Dual-element destruction.
+- **Smoothing Effect Deniers**: perceptible at Master+ mastery level
+- **Damage**: Cold damage. Thermal drain on contact. Flash-freeze. Ice impact.
+- **Damage**: At specialized application, corrosive electrochemical discharge. Acid-electrical hybrid damage. The battery that weaponizes its own chemistry.
+- **Healing**: At specialized application WITH Font secondary, precision therapeutic modification. The Harkness Engine's Forge component — selecting which biological rewrite pathway the Font Mutagen follows.
+- **Damage**: Directed energy. Concentrated beam delivery. Armor-Piercing because the focused beam penetrates more efficiently than a broad attack. The Forge's precision weapon — not more powerful, more accurate.
+- **Damage**: At Stage 4+ ONLY. The Viral axis overwhelms Flora and biological light becomes ionizing radiation. This is the extreme expression, not the default. Nuclear bioluminescence.
+- **Damage**: Scalding thermal damage. Pressure damage. Burns that penetrate sealed protection because vapor permeates.
+- **Healing**: Aggressive tissue regrowth at specialized application. The wound closes whether the patient wants it to or not. The Flora builds; the Viral makes the building indiscriminate. Potentially scarring or deforming because the growth is adaptive, not precise.
+- **Damage**: At high Stage, overwhelming hydraulic pressure as weapon. The pressure that crushes. Bludgeoning through fluid dynamics.
+- **Damage**: Supplemental electrical damage delivered through fluid medium. The galvanic current is simultaneously healing (at the right frequency) and destructive (at the wrong frequency). Same mechanism, different tuning.
+- **Damage**: At high Stage: vacuum damage, pressure differential damage, or high-velocity wind impact. The hurricane.
+- **Damage**: Consumptive drain. The parasite feeds on the host's metabolic energy. Ongoing biological damage from being consumed from within.
+- **Healing (area)**: Healing spores. Generative compounds distributed through Propagative dispersal. Heal everyone in the cloud rather than one touched target.
+- **Healing**: Restorative compounds from biological symbiosis. Medicines harvested from Sylvan organisms have both Flora construction precision and Fauna metabolic compatibility with animal patients.
+- **Damage**: Biological weapons that evolve mid-fight. Claws become acid-secreting. Teeth become venomous. The attack adapts to the target's vulnerabilities.
+- **Damage**: Coordinated predatory assault. Many small attacks overwhelming single-target defense. Death by a thousand cuts. Area damage through swarm saturation.
+- **Damage**: Necrotic/entropic damage. Targeted tissue destruction. Not slashing, burning, or dissolving — aging and crumbling. The target becomes older at the point of contact.
+- **Damage**: At high Stage, crushing/bludgeoning through overwhelming hydraulic pressure. The ocean floor expression.
+- **Damage**: THE Forge's pure destructive expression. Continuous electrical arc to any conducting material within range. This is NOT optional — the charge is the material's nature. Living lightning as a permanent state. The most direct damage expression in the Forge.
+- **Damage**: Toxic spore inhalation at high Stage. Poison delivery through atmospheric vector. The forest that kills you for breathing.
+- **Damage**: At specialized application, combustion damage. The engine as weapon — directed internal combustion released at a target. Not the Forge's natural tendency but achievable through the Chem character's thermal output.
+- **Damage**: Galvanic discharge at the biological interface. Electrical damage specifically optimized against living tissue.
+- **Damage**: Entropic decay as harm. Not impact — aging. The target gets older, more brittle, closer to its terminal state. Physical degradation through accelerated entropy.
+- **Damage**: At specialized application, focused coherent light. The laser. Geometrically precise energy delivery along a defined path.
+- **Healing (network)**: Shared biological resources. Healthy members supporting injured ones through the network. The colony sustaining its wounded.
+- **Effect**: the verb
+- **Damage**: At high Stage, reality instability damaging the fabric of local physics. Structures fail not from force but from their physical laws becoming temporarily incorrect. Magical constructs unravel because the rules they run on are no longer reliable.
+
+## States
+
+- **Affliction (condition)**: Nausea, confusion, behavioral alteration, compulsive behaviors imposed through parasitic infection. The host's biology works against them.
+- **Metaphysical Condition**: The stability of the item's planar expressions. How well its mutations, enchantments, and magical architecture are functioning.
+- **Mental Condition**: The item's information integrity. How much can be learned about it through research, analysis, or identification. How well its own nature, history, and properties are preserved as readable data.
+- **Social Condition**: The item's legend and reputation. How well-known it is, what cultural weight it carries, what reactions it provokes in those who recognize it.
+- **Physical Condition**: The material integrity of the item. Rust, cracks, chips, edge degradation, structural fatigue. The state of the physical substance.
+- **Heritage State**: Active, Arrested, or Settled
+- **Formation Stage**: how intensely the planar expression has crystallized (1-10)
+- **Conditions map**: which of the 19 conditions apply, with acceptable ranges
+
+## Places & Planes
+
+- **Material Plane Native**: Originally from the material plane before planar bleed. Most common origin.
+- **The Borderlands**: Regions where rifts frequently open, creating overlapping planar influences. Produces 44+ combinations of elemental and planar purity depending on which planes intersect.
+- **Plane of origin**: which planar engine the material's expression derives from
+- **Capacity**: Depends on way station size (small: 3-5 creatures; large: 20-30)
+- **Borderlands (W1)**: B-01 through B-16. Physical register. Phase wheel: Solid/Liquid/Gas/Plasma = Earth/Water/Air/Fire. 16 isotopes + effect summary.
+- **Physical Front**: Containing planar tears, managing Reality Seams, monster containment. The "boots on the ground" operations. Staffed primarily through Stormpeak, Deepguard, and Wildpath assets.
+- **Capacity**: 20-50 beds, common areas
+- **Conceptual Front**: Manipulating fate itself. Pruning catastrophic timelines, identifying and neutralizing key variables, guiding the future toward stable outcomes. Staffed primarily through the Chronosynclastic Institute. This is the highest and most secret front.
+- **✅ PLACED**: Position confirmed, mechanics sketched
+- **Informational Front**: Managing the Great Lie. Propaganda, belief management, suppressing dangerous truths, controlling the narrative of history. Staffed primarily through Chiaroscuro, Unity, and Mortis Ævum assets.
+
+## Anatomy & Equipment
+
+- **Additive Insets**: enhance expressions passing through them:
+- **Staffing**: Field researcher, alchemical technician
+- **Subtractive Insets**: impose limitations in exchange for reduced costs:
+- **Staffing**: 3-5 permanent staff (innkeeper, cooks, cleaners)
+- **Staffing**: Guild administrator, magistrate clerk, equipment quartermaster
+- **Staffing**: 1-2 groundskeepers
+- **Staffing**: Master smith, enchanter, apprentices
+- **Staffing**: Handler, cleaner
+- **Staffing**: Master alchemist, apprentices
+- **Battery**: A dedicated power storage component. Sacrifices a slot that could hold a rote or modifier to provide additional charge capacity. Uses the battery material's own planar character and recharge rate. A meaningful trade-off — more power budget at the cost of fewer capabilities.
+- **Inset**: A spell sentence modifier installed directly into the staff's architecture. Modifies rotes or channeled spells that pass through its position in the routing. Does not hold its own rote. Does not generate its own charges.
+- **F-16 Battery**: Energy storage. Foundation of ALL Powered items. Explosive failure risk on full depletion.
+- **Staffing**: Locally hired personnel, limited central authority
+- **Wand-Attachment**: A wand installed as a component of the staff. Carries one rote. Has its own material properties. Generates its own charges from its own material. The wand is a sub-item with its own stat profile, but it occupies a slot on the parent staff.
+- **Isolating Magically Reactive Gear**: Remove any items the creature interacts with in unexpected ways. A fire-aligned creature might superheat metal weapons. An entropy-aligned creature might destabilize healing potions.
+
+## Audio
+
+- **All 64 political alloy music cores**: each of the 24 GOV, 20 ECO, and 20 ETHOS entries produces four music theory contributions
+
+## Scenes
+
+- **Character Creation v3.0**: DEPRECATED. Uses 100 XP (should be 120), wrong HP formula, 12 skills/3 petals, no Heritage States, no Psyche Schema, no college affiliation.
+- **Reality Seam Activity**: Dormant through Catastrophic
+- **Active**: The originating process is still ongoing. The material is in the middle of its formation event. Molten lava, living wood, fresh blood, actively growing crystal. Active materials are more volatile but also more responsive to Forge processing — the practitioner is working with a process already in motion rather than trying to restart a completed one. Active heritage interacts readily with synthesis operations and is the easiest state to direct toward a specific outcome.
+- **Legal Impact**: Capturing a sapient creature requires **informed consent or legal authorization**. A sapient creature treated as property can be prosecuted as kidnapping. Different kingdoms have different protections.
+- **Activation**: The creature signs or verbally agrees. Both parties are bound.
+- **Impact on PCs**: Political struggles affect mission availability, funding, rivalry dynamics
+- **[Active]**: Requires an action to use.
+- **Interaction Profile**: Static, Cycling, Projecting, or Absorbing
+- **Consent Contract**: For sapient creatures, a binding agreement (magically enforced) defining the terms
+- **Character Creation Guide v1**: PARTIALLY CURRENT. Correct 120 XP, has Archetype step (5/3/1 spread), Shaping Pool (Intellect + Dominion) and Substance Pool (Acuity + Anima) for magic vocabulary, uses `((2×Level)-1)×2` talent cost formula. Still uses 12 Abilities, 3 Skill Petals, multiple TBD sections.
+- **[Reactive]**: Uses reaction.
+
+## Unresolved
+
+- Found retired alias 'Integrity' in concept: Physical Condition
+- Found retired alias 'Integrity' in concept: Mental Condition
+- Found retired alias 'Acuity' in concept: Character Creation Guide v1
+- Found raw material 'Anima' used as attribute in 'Character Creation Guide v1' that should be Essence.
+#

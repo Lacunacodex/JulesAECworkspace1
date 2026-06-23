@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jules/Aetherium Codex — Term Lock (canonical registry).md",
+                "file": "Jules/Pending Review/AEC Jules Compilation V1 2026-06-23.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aetherium Codex — Term Lock (canonical registry)"
+              "title": "AEC Jules Compilation V1 2026-06-23"
             }
           }
         ],
@@ -198,11 +198,12 @@
       "bases:Create new base": false
     }
   },
-  "active": "bf1dbf5acff43611",
+  "active": "b2c0b32eb842d51c",
   "lastOpenFiles": [
-    "Jules/Untitled",
-    "Untitled.md",
     "Jules/Aetherium Codex — Term Lock (canonical registry).md",
+    "Jules/Pending Review/AEC Jules Compilation V1 2026-06-23.md",
+    "Jules/Pending Review",
+    "Untitled.md",
     "03-Production-and-Assets/Placeholder 3.md",
     "02-Societies-and-Factions/Placeholder 2.md",
     "01-Unified-Mechanics/Placeholder 1.md",
@@ -234,7 +235,6 @@
     "99-Unsorted/Ætherium Codex/SRD combined/AC_SRD_v2_03_PlanarStrain.md",
     "99-Unsorted/Ætherium Codex/SRD combined",
     "99-Unsorted/Narrative Engine Alpha/AC_Document_0_Operating_Philosophy_Final.docx",
-    "99-Unsorted/Ætherium Codex/ÆC_Planar_Expression_to_Effect_Map.docx",
-    "ÆC narrative hooks v2.docx"
+    "99-Unsorted/Ætherium Codex/ÆC_Planar_Expression_to_Effect_Map.docx"
   ]
 }
