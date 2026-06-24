@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Unsorted/Claude mechanics talents v1/AC Document 1_Unified_Architecture.md",
+                "file": "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AC Document 1_Unified_Architecture"
+              "title": "AC Unified Architecture"
             }
           }
         ],
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "99-Unsorted/Claude mechanics talents v1/AC Document 1_Unified_Architecture.md",
+            "file": "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,11 +200,21 @@
   },
   "active": "b2c0b32eb842d51c",
   "lastOpenFiles": [
-    "99-Unsorted/Ætherium Codex/ÆC Isotopes Combined v2.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/00_RESORT_MANIFEST.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Isotopes_v3_resorted.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Item_Compendium_v3_resorted.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Setting_Bible_v3_resorted-1.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Rejects_v3_resorted.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_SRD_v3_resorted.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Adventure_Generator_v3_resorted.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026",
+    "99-Unsorted/Claude mechanics talents v1/AC Unified Architecture.md",
+    "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
+    "99-Unsorted/Claude Hand offs/Session_Handoff_April_28_2026_Session11.md",
     "99-Unsorted/Claude mechanics talents v1/AC Document 1_Unified_Architecture.md",
+    "99-Unsorted/Ætherium Codex/ÆC Isotopes Combined v2.md",
     "99-Unsorted/Claude alpha v3/1. SRD v3 Combined (cutting copy).md",
     "99-Unsorted/Claude alpha v3/1. SRD v3 Combined (2).md",
-    "99-Unsorted/Claude Hand offs/Session_Handoff_April_28_2026_Session11.md",
     "99-Unsorted/Ætherium Codex/items & Materia Alpha v2/AC_SRD_v2_07_ArtificePaths.md",
     "99-Unsorted/Claude alpha v3/AC_Item_Creation_Concepts_Extracted (1).md",
     "99-Unsorted/Narrative Engine Alpha/8. ÆC Doc 3B Relationship Map System.md",
@@ -217,15 +227,6 @@
     "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Unsorted Raw v2 2026-06-23.md",
     "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Setting Bible v3 2026-06-23.md",
     "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Setting Bible v2 2026-06-23.md",
-    "Jules/Pending Review/MoC Third Run 0623206/AEC Jules SRD v3 2026-06-23.md",
-    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules SRD v2 2026-06-23.md",
-    "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Item Compendium v3 2026-06-23.md",
-    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Item Compendium v2 2026-06-23.md",
-    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Bestiary v2 2026-06-23.md",
-    "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Adventure Generator v2 2026-06-23.md",
-    "docs/Bestiary.md",
-    "docs/Unsorted_Raw.md",
-    "docs/Setting_Bible.md",
     "docs",
     "/docs",
     "scripts/jules_executor.py",
@@ -234,7 +235,6 @@
     "/Jules",
     "scripts",
     "/scripts",
-    "Jules/Scripts",
-    "Jules/Pending Review/MoC Third Run 0623206"
+    "Jules/Scripts"
   ]
 }

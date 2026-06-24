@@ -91,39 +91,39 @@ Higher-tier items recharge at higher Scope temporal resolutions. A Novice item r
 
 The four pillars are the axes along which any entity's health, integrity, and functional capacity are measured. They operate at EVERY Scope level. The content changes with scale. The diagnostic function is identical: how healthy is this entity along this axis?
 
-## Physical (Structural Integrity)
+## Physical (Structural Integrity [structural])
 
 The physical composition, structural soundness, and material functionality of the entity.
 
-| Scope | What It Tracks | Example Threats |
-|---|---|---|
-| S0 | Body: bones, organs, blood, tissue | Sword wound, blunt force, burns, falling |
-| S1 | Squad effectiveness: casualties, exhaustion, ammunition | Ambush, suppressive fire, booby traps |
-| S2 | Engagement infrastructure: fortifications, equipment, positions | Siege engines, sappers, engineering operations |
-| S3-4 | Operational infrastructure: supply depots, roads, facilities | Sabotage, targeted destruction, logistics disruption |
-| S5-6 | Regional infrastructure: trade routes, production, agriculture | Blockade, sanctions, scorched earth |
-| S7-8 | Civilizational infrastructure: cities, industry, transportation networks | Strategic bombing, territorial conquest, economic warfare |
-| S9+ | Setting-scale physical integrity | Planar boundary rupture, cosmological structural failure |
+| Scope | What It Tracks                                                           | Example Threats                                           |
+| ----- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
+| S0    | Body: bones, organs, blood, tissue                                       | Sword wound, blunt force, burns, falling                  |
+| S1    | Squad effectiveness: casualties, exhaustion, ammunition                  | Ambush, suppressive fire, booby traps                     |
+| S2    | Engagement infrastructure: fortifications, equipment, positions          | Siege engines, sappers, engineering operations            |
+| S3-4  | Operational infrastructure: supply depots, roads, facilities             | Sabotage, targeted destruction, logistics disruption      |
+| S5-6  | Regional infrastructure: trade routes, production, agriculture           | Blockade, sanctions, scorched earth                       |
+| S7-8  | Civilizational infrastructure: cities, industry, transportation networks | Strategic bombing, territorial conquest, economic warfare |
+| S9+   | Setting-scale physical integrity [structural]                            | Planar boundary rupture, cosmological structural failure  |
 
-## Metaphysical (Elemental/Chemical/Biological Integrity)
+## Metaphysical (Elemental/Chemical/Biological Integrity [structural])
 
 The isotope composition, planar coherence, and fundamental chemical-biological health of the entity. This is NOT limited to "magic." It encompasses the full spectrum of the five alchemy layers: inorganic chemistry (Borderlands), organic chemistry and biology (Verdant Font), thermodynamics and entropy (Synod), catalysis and process chemistry (Hidden Forge), and statistical mechanics and probability (Palimpsest).
 
 Agent Orange is a Metaphysical attack — Borderlands + Verdant Font compound isotope weaponized at Scope 7-8, poisoning the chemical and biological substrate of an entire territory for generations.
 
-| Scope | What It Tracks | Example Threats |
-|---|---|---|
-| S0 | Personal biochemistry: Strain, poison, disease, radiation | Toxic exposure, disease vector, isotope contamination |
-| S1 | Local environmental quality: water, air, soil, ambient isotope levels | Localized contamination, bleed zone expansion |
-| S2 | Engagement-zone hazards: ward stability, tactical isotope use | Ward sabotage, chemical weapon deployment |
-| S3-4 | Operational magical infrastructure: communication networks, ritual sites, Kan-tech systems | Infrastructure disruption, communication ward collapse |
-| S5-6 | Regional elemental health: ley line stability, agricultural soil quality, water table purity | Resource extraction damage, ley line destabilization, industrial pollution |
-| S7-8 | Civilizational elemental health: territorial isotope balance, genetic health of populations, Smoothing Effect regional strength | Weaponized isotope contamination, genetic damage, territorial planar collapse |
-| S9+ | Cosmological coherence: the Smoothing Effect, planar boundary integrity | Reality Seam catastrophe, Coherence Clock failure |
+| Scope | What It Tracks                                                                                                                  | Example Threats                                                               |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| S0    | Personal biochemistry: Strain, poison, disease, radiation                                                                       | Toxic exposure, disease vector, isotope contamination                         |
+| S1    | Local environmental quality: water, air, soil, ambient isotope levels                                                           | Localized contamination, bleed zone expansion                                 |
+| S2    | Engagement-zone hazards: ward stability, tactical isotope use                                                                   | Ward sabotage, chemical weapon deployment                                     |
+| S3-4  | Operational magical infrastructure: communication networks, ritual sites, Kan-tech systems                                      | Infrastructure disruption, communication ward collapse                        |
+| S5-6  | Regional elemental health: ley line stability, agricultural soil quality, water table purity                                    | Resource extraction damage, ley line destabilization, industrial pollution    |
+| S7-8  | Civilizational elemental health: territorial isotope balance, genetic health of populations, Smoothing Effect regional strength | Weaponized isotope contamination, genetic damage, territorial planar collapse |
+| S9+   | Cosmological coherence: the Smoothing Effect, planar boundary integrity [structural]                                            | Reality Seam catastrophe, Coherence Clock failure                             |
 
 ## Mental (Identity Coherence)
 
-The psychological integrity, cognitive function, and identity coherence of the entity. At personal Scope, this is the individual's composure, conviction, and sense of self. At institutional Scope, this is the organization's ideological alignment and internal trust. At civilizational Scope, this is cultural identity and collective will.
+The psychological integrity [structural], cognitive function, and identity coherence of the entity. At personal Scope, this is the individual's composure, conviction, and sense of self. At institutional Scope, this is the organization's ideological alignment and internal trust. At civilizational Scope, this is cultural identity and collective will.
 
 | Scope | What It Tracks | Example Threats |
 |---|---|---|
@@ -287,12 +287,12 @@ A character moves one step down the relevant track when a single hit's post-Soak
 
 **Damage Threshold = (Primary Attribute + Mastery) × 2**
 
-| Pillar | Primary Attribute | Threshold Formula |
-|---|---|---|
-| Physical | Vigor | (Vigor + Mastery) × 2 |
-| Mental | Wits | (Wits + Mastery) × 2 |
-| Social | Composure | (Composure + Mastery) × 2 |
-| Metaphysical | Integrity | (Integrity + Mastery) × 2 |
+| Pillar       | Primary Attribute | Threshold Formula         |
+| ------------ | ----------------- | ------------------------- |
+| Physical     | Vigor             | (Vigor + Mastery) × 2     |
+| Mental       | Wits              | (Wits + Mastery) × 2      |
+| Social       | Composure         | (Composure + Mastery) × 2 |
+| Metaphysical | Moiety            | (Moiety + Mastery) × 2    |
 
 ## The Four Tracks
 
@@ -401,12 +401,12 @@ Each pillar has four defenses that parallel each other functionally. The defense
 
 ### Metaphysical Defenses
 
-| Defense | Formula | Defends Against |
-|---|---|---|
-| **Acuity** | 10 + Essence mod + Acuity mod + Mastery/2 | Incoming planar effects, ambient isotope exposure, magical targeting |
-| **Integrity** | 10 + Integrity attr mod + Vigor mod + Mastery/2 | Identity-altering metaphysical effects, Schema overwrite, possession |
-| **Resilience** | (Integrity attr + Mastery)/2 + Faith/Pact bonuses | Metaphysical damage absorption. Functions as Metaphysical Soak. |
-| **Essence** | 10 + Essence attr mod + Mastery bonus | Internal corruption, isotope contamination, planar identity drift |
+| Defense        | Formula                                   | Defends Against                                                      |
+| -------------- | ----------------------------------------- | -------------------------------------------------------------------- |
+| **Acuity**     | 10 + Essence mod + Acuity mod + Mastery/2 | Incoming planar effects, ambient isotope exposure, magical targeting |
+| **Integrity**  | 10 + Moiety + Vigor mod + Mastery/2       | Identity-altering metaphysical effects, Schema overwrite, possession |
+| **Resilience** | (Moiety + Mastery)/2 + Faith/Pact bonuses | Metaphysical damage absorption. Functions as Metaphysical Soak.      |
+| **Essence**    | 10 + Essence attr mod + Mastery bonus     | Internal corruption, isotope contamination, planar identity drift    |
 
 *Note: The attribute previously called "Anima" has been renamed to **Essence** to avoid collision with Anima the god. Essence is the Metaphysical attribute governing raw planar connection and internal coherence. It feeds into Acuity (Metaphysical Evade), Essence defense (Metaphysical Resist), and the Pattern pool formula.*
 
@@ -420,12 +420,12 @@ Each pillar has four defenses that parallel each other functionally. The defense
 
 Each pool is a buffer of points that absorb damage before the character moves down the scene-level condition track. When the pool reaches 0, subsequent damage drives the character down the track directly.
 
-| Pool | Name | Formula |
-|---|---|---|
-| Physical | **Vitality** | (Vigor × 3) + (Might × 3) + (Mastery × 5) |
-| Mental | **Resolve** | (Wits × 3) + (Intellect × 3) + (Mastery × 5) |
-| Social | **Poise** | (Presence × 3) + (Composure × 3) + (Mastery × 5) |
-| Metaphysical | **Pattern** | (Integrity × 3) + (Essence × 3) + (Mastery × 5) |
+| Pool         | Name         | Formula                                          |
+| ------------ | ------------ | ------------------------------------------------ |
+| Physical     | **Vitality** | (Vigor × 3) + (Might × 3) + (Mastery × 5)        |
+| Mental       | **Resolve**  | (Wits × 3) + (Intellect × 3) + (Mastery × 5)     |
+| Social       | **Poise**    | (Presence × 3) + (Composure × 3) + (Mastery × 5) |
+| Metaphysical | **Pattern**  | (Moiety × 3) + (Essence × 3) + (Mastery × 5)     |
 
 All four pools follow the same formula structure: (Primary Attribute × 3) + (Secondary Attribute × 3) + (Mastery × 5).
 
@@ -2031,18 +2031,18 @@ Every statement in this section applies to Physical, Mental, Social, AND Metaphy
 
 ## What Differs Per Pillar
 
-| Component | Physical | Mental | Social | Metaphysical |
-|---|---|---|---|---|
-| **HP Pool** | Health | Resolve | Reputation | Pattern |
-| **HP Formula** | (Vigor×3)+(Might×3)+(Mastery×5) | (Wits×3)+(Intellect×3)+(Mastery×5) | (Presence×3)+(Composure×3)+(Mastery×5) | (Integrity×3)+(Anima×3)+(Mastery×5) |
-| **FP Pool** | Physical FP | Mental FP | Social FP | Metaphysical FP (ÆP) |
-| **FP Formula** | (Vigor+Tc)×Mastery | (Acuity+Tk)×Mastery | (Guile+Ts)×Mastery | (Dominion+Tₘ)×Mastery |
-| **Dodge** | Finesse+Wits+(Mastery/2) | Acuity+Dominion+(Mastery/2) | Guile+Wits+(Mastery/2) | Anima+Acuity+(Mastery/2) |
-| **Deflection** | Might+Armor+Shield+(Mastery/2) | Intellect+Composure+(Mastery/2) | Presence+Intellect+(Mastery/2) | Integrity+Vigor+(Mastery/2) |
-| **Soak** | ((Vigor+Mastery)/2)+Armor | ((Wits+Mastery)/2)+Talents | ((Composure+Mastery)/2)+Status/Title | ((Integrity+Mastery)/2)+Faith/Pact |
-| **Threshold** | (Vigor+Mastery)×2 | (Wits+Mastery)×2 | (Composure+Mastery)×2 | (Integrity+Mastery)×2 |
-| **Track Name** | Vitality | Clarity | Poise | Pattern Integrity |
-| **Skills** | Athletics, Skullduggery, Conveyance, Survival | Lore, Medicine, Artifice, Discovery | Streetwise, Performance, Influence, Valuation | Metaphysics, Operate, Insight, Praxis |
+| Component      | Physical                                      | Mental                              | Social                                        | Metaphysical                          |
+| -------------- | --------------------------------------------- | ----------------------------------- | --------------------------------------------- | ------------------------------------- |
+| **HP Pool**    | Health                                        | Resolve                             | Reputation                                    | Pattern                               |
+| **HP Formula** | (Vigor×3)+(Might×3)+(Mastery×5)               | (Wits×3)+(Intellect×3)+(Mastery×5)  | (Presence×3)+(Composure×3)+(Mastery×5)        | (Moiety×3)+(Anima×3)+(Mastery×5)      |
+| **FP Pool**    | Physical FP                                   | Mental FP                           | Social FP                                     | Metaphysical FP (ÆP)                  |
+| **FP Formula** | (Vigor+Tc)×Mastery                            | (Acuity+Tk)×Mastery                 | (Guile+Ts)×Mastery                            | (Dominion+Tₘ)×Mastery                 |
+| **Dodge**      | Finesse+Wits+(Mastery/2)                      | Acuity+Dominion+(Mastery/2)         | Guile+Wits+(Mastery/2)                        | Anima+Acuity+(Mastery/2)              |
+| **Deflection** | Might+Armor+Shield+(Mastery/2)                | Intellect+Composure+(Mastery/2)     | Presence+Intellect+(Mastery/2)                | Moiety +Vigor+(Mastery/2)             |
+| **Soak**       | ((Vigor+Mastery)/2)+Armor                     | ((Wits+Mastery)/2)+Talents          | ((Composure+Mastery)/2)+Status/Title          | ((Moiety+Mastery)/2)+Faith/Pact       |
+| **Threshold**  | (Vigor+Mastery)×2                             | (Wits+Mastery)×2                    | (Composure+Mastery)×2                         | (Moiety+Mastery)×2                    |
+| **Track Name** | Vitality                                      | Clarity                             | Poise                                         | Pattern Integrity                     |
+| **Skills**     | Athletics, Skullduggery, Conveyance, Survival | Lore, Medicine, Artifice, Discovery | Streetwise, Performance, Influence, Valuation | Metaphysics, Operate, Insight, Praxis |
 
 ## The Condition Tracks (Player's Guide V4.1)
 
@@ -2076,7 +2076,7 @@ Every statement in this section applies to Physical, Mental, Social, AND Metaphy
 | -4 | -10 | Rapt — socially overwhelmed, Flat-Footed + Disadvantage |
 | -5 | Incapacitated | Broken — complete social breakdown, flee/surrender/comply |
 
-**Metaphysical — Pattern Integrity**
+**Metaphysical — Pattern Integrity [structural]**
 
 | Step | Penalty | State |
 |---|---|---|
@@ -2664,12 +2664,12 @@ The architectural decisions in these documents remain sound. These are formula-l
 
 **Correct formulas:**
 
-| Pillar | Pool Name | Formula |
-|---|---|---|
-| Physical | Health (Vitality) | (Vigor × 3) + (Might × 3) + (Mastery × 5) |
-| Mental | Resolve (Clarity) | (Wits × 3) + (Intellect × 3) + (Mastery × 5) |
-| Social | Reputation (Poise) | (Presence × 3) + (Composure × 3) + (Mastery × 5) |
-| Metaphysical | Pattern (Pattern Integrity) | (Integrity × 3) + (Anima × 3) + (Mastery × 5) |
+| Pillar       | Pool Name                   | Formula                                          |
+| ------------ | --------------------------- | ------------------------------------------------ |
+| Physical     | Health (Vitality)           | (Vigor × 3) + (Might × 3) + (Mastery × 5)        |
+| Mental       | Resolve (Clarity)           | (Wits × 3) + (Intellect × 3) + (Mastery × 5)     |
+| Social       | Reputation (Poise)          | (Presence × 3) + (Composure × 3) + (Mastery × 5) |
+| Metaphysical | Pattern (Pattern Integrity) | (Moiety × 3) + (Anima × 3) + (Mastery × 5)       |
 
 **Verification:** At starting state (all attributes 1, Mastery 3): (1×3)+(1×3)+(3×5) = 21. Matches character profile.
 

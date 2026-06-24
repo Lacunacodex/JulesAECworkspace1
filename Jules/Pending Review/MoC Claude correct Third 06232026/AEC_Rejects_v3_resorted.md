@@ -1,0 +1,59 @@
+# Rejects — Parse Artifacts (NOT glossary terms)
+> Re-sorted 2026-06-23 — 55 entries removed from the live buckets
+
+These are not game terms. They are extraction provenance codes, status markers, scraped source-file titles, and — the largest group — stat-block COLUMN HEADERS whose cell content got attached to the label. The underlying content (faction templates, the Sun God-King deity entry, companion-bond tables) is real but must be re-extracted from source as structured records, not salvaged from these labels.
+
+- **(B)** — _extraction-provenance code_
+- **(C)** — _extraction-provenance code_
+- **(F)** — _extraction-provenance code_
+- **(N)** — _extraction-provenance code_
+- **(S)** — _extraction-provenance code_
+- **2. Elemental Cards Alpha v1** — _source-file status note_
+- **AE Stamina wip part 5** — _source-file status note_
+- **Aliases** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Architecture** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Aspects** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Authority** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Character Creation Guide v1** — _source-file status note_
+- **Character Creation v3.0** — _source-file status note_
+- **Crops** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Danger** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Design** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Equipment** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Example** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Examples** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Far East snake-like people** — _creature placeholder → Vespidans (re-extract from Vespidans_Notes)_
+- **Funding** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Funding Sources** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Impact on PCs** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Inventory** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Legality** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Licensed** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Loyalty** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Nature** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Now uses outdated creature type names** — _editorial note_
+- **Origin** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Players** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Portfolio** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Presence** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Purpose** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Role** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Scale** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Services** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Society** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Source** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Special Features** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Special Trait** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Staffing** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Staging Area** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Structure** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Transport** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Uniforms** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Uses** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Value to Guilds** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **Vecna analogue** — _design placeholder — no entity exists yet_
+- **What** — _stat-block field-label (cell content trapped behind header; re-extract source template)_
+- **⚠️ FLAGGED** — _status marker_
+- **✅ PLACED** — _status marker_
+- **📋 STUB** — _status marker_
+- **🔧 NEEDS WORK** — _status marker_

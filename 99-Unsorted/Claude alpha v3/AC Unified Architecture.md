@@ -401,12 +401,12 @@ Each pillar has four defenses that parallel each other functionally. The defense
 
 ### Metaphysical Defenses
 
-| Defense | Formula | Defends Against |
-|---|---|---|
-| **Acuity** | 10 + Essence mod + Acuity mod + Mastery/2 | Incoming planar effects, ambient isotope exposure, magical targeting |
-| **Integrity** | 10 + Integrity attr mod + Vigor mod + Mastery/2 | Identity-altering metaphysical effects, Schema overwrite, possession |
-| **Resilience** | (Integrity attr + Mastery)/2 + Faith/Pact bonuses | Metaphysical damage absorption. Functions as Metaphysical Soak. |
-| **Essence** | 10 + Essence attr mod + Mastery bonus | Internal corruption, isotope contamination, planar identity drift |
+| Defense        | Formula                                   | Defends Against                                                      |
+| -------------- | ----------------------------------------- | -------------------------------------------------------------------- |
+| **Acuity**     | 10 + Essence mod + Acuity mod + Mastery/2 | Incoming planar effects, ambient isotope exposure, magical targeting |
+| **Integrity**  | 10 + Moiety + Vigor mod + Mastery/2       | Identity-altering metaphysical effects, Schema overwrite, possession |
+| **Resilience** | (Moiety + Mastery)/2 + Faith/Pact bonuses | Metaphysical damage absorption. Functions as Metaphysical Soak.      |
+| **Essence**    | 10 + Essence attr mod + Mastery bonus     | Internal corruption, isotope contamination, planar identity drift    |
 
 *Note: The attribute previously called "Anima" has been renamed to **Essence** to avoid collision with Anima the god. Essence is the Metaphysical attribute governing raw planar connection and internal coherence. It feeds into Acuity (Metaphysical Evade), Essence defense (Metaphysical Resist), and the Pattern pool formula.*
 
@@ -420,12 +420,12 @@ Each pillar has four defenses that parallel each other functionally. The defense
 
 Each pool is a buffer of points that absorb damage before the character moves down the scene-level condition track. When the pool reaches 0, subsequent damage drives the character down the track directly.
 
-| Pool | Name | Formula |
-|---|---|---|
-| Physical | **Vitality** | (Vigor × 3) + (Might × 3) + (Mastery × 5) |
-| Mental | **Resolve** | (Wits × 3) + (Intellect × 3) + (Mastery × 5) |
-| Social | **Poise** | (Presence × 3) + (Composure × 3) + (Mastery × 5) |
-| Metaphysical | **Pattern** | (Integrity × 3) + (Essence × 3) + (Mastery × 5) |
+| Pool         | Name         | Formula                                          |
+| ------------ | ------------ | ------------------------------------------------ |
+| Physical     | **Vitality** | (Vigor × 3) + (Might × 3) + (Mastery × 5)        |
+| Mental       | **Resolve**  | (Wits × 3) + (Intellect × 3) + (Mastery × 5)     |
+| Social       | **Poise**    | (Presence × 3) + (Composure × 3) + (Mastery × 5) |
+| Metaphysical | **Pattern**  | (Moiety × 3) + (Essence × 3) + (Mastery × 5)     |
 
 All four pools follow the same formula structure: (Primary Attribute × 3) + (Secondary Attribute × 3) + (Mastery × 5).
 
