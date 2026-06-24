@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Unsorted/AEC Game mechanics/ÆC Isotopes Combined v2.md",
+                "file": "99-Unsorted/Claude alpha v3/1. SRD v3 Combined (2).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ÆC Isotopes Combined v2"
+              "title": "1. SRD v3 Combined (2)"
             }
           }
         ],
@@ -78,7 +78,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Integrity",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "99-Unsorted/AEC Game mechanics/ÆC Isotopes Combined v2.md",
+            "file": "99-Unsorted/Claude alpha v3/1. SRD v3 Combined (cutting copy).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -198,11 +198,18 @@
       "bases:Create new base": false
     }
   },
-  "active": "5b039bdefa388a92",
+  "active": "b2c0b32eb842d51c",
   "lastOpenFiles": [
-    "99-Unsorted/AEC Game mechanics/AC_Document_1_Unified_Architecture-1.md",
-    "99-Unsorted/AEC Game mechanics/ÆC Isotopes Combined v2.md",
+    "99-Unsorted/Claude Hand offs/Session_Handoff_April_28_2026_Session11.md",
+    "99-Unsorted/Claude alpha v3/1. SRD v3 Combined (2).md",
+    "99-Unsorted/Ætherium Codex/items & Materia Alpha v2/AC_SRD_v2_07_ArtificePaths.md",
+    "99-Unsorted/Ætherium Codex/ÆC Isotopes Combined v2.md",
+    "99-Unsorted/Claude alpha v3/AC_Item_Creation_Concepts_Extracted (1).md",
+    "99-Unsorted/Claude alpha v3/1. SRD v3 Combined (cutting copy).md",
+    "99-Unsorted/Narrative Engine Alpha/8. ÆC Doc 3B Relationship Map System.md",
     "99-Unsorted/Ætherium Codex/items & Materia Alpha v2/ÆC SRD v2 Prima Materia Combined.md",
+    "99-Unsorted/AEC Game mechanics/ÆC Isotopes Combined v2.md",
+    "99-Unsorted/AEC Game mechanics/AC_Document_1_Unified_Architecture-1.md",
     "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Bestiary v3 2026-06-23.md",
     "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Adventure Generator v3.0 2026-06-23.md",
     "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Unsorted Raw v3 2026-06-23.md",
@@ -219,13 +226,6 @@
     "docs/Unsorted_Raw.md",
     "docs/Setting_Bible.md",
     "docs/SRD_v3.md",
-    "docs/Item_Compendium.md",
-    "/docs/Bestiary.md",
-    "/docs/Unsorted_Raw.md",
-    "/docs/Setting_Bible.md",
-    "/docs/SRD_v3.md",
-    "/docs/Item_Compendium.md",
-    "docs/Adventure_Generator.md",
     "docs",
     "/docs",
     "scripts/jules_executor.py",
