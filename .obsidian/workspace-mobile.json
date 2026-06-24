@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
+                "file": "Jules/Pending Review/MoC Claude correct Third 06232026/00_RESORT_MANIFEST.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AC Unified Architecture"
+              "title": "00_RESORT_MANIFEST"
             }
           }
         ],
@@ -78,7 +78,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Integrity",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -129,7 +129,7 @@
         }
       }
     ],
-    "currentTab": 1
+    "currentTab": 0
   },
   "right": {
     "id": "53142948895cd43a",
@@ -141,7 +141,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
+            "file": "Jules/Pending Review/MoC Claude correct Third 06232026/00_RESORT_MANIFEST.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -200,6 +200,7 @@
   },
   "active": "b2c0b32eb842d51c",
   "lastOpenFiles": [
+    "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
     "Jules/Pending Review/MoC Claude correct Third 06232026/00_RESORT_MANIFEST.md",
     "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Isotopes_v3_resorted.md",
     "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Item_Compendium_v3_resorted.md",
@@ -209,7 +210,6 @@
     "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Adventure_Generator_v3_resorted.md",
     "Jules/Pending Review/MoC Claude correct Third 06232026",
     "99-Unsorted/Claude mechanics talents v1/AC Unified Architecture.md",
-    "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
     "99-Unsorted/Claude Hand offs/Session_Handoff_April_28_2026_Session11.md",
     "99-Unsorted/Claude mechanics talents v1/AC Document 1_Unified_Architecture.md",
     "99-Unsorted/Ætherium Codex/ÆC Isotopes Combined v2.md",
