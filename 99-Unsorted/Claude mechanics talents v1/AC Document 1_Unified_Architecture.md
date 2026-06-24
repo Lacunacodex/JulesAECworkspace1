@@ -89,41 +89,41 @@ Higher-tier items recharge at higher Scope temporal resolutions. A Novice item r
 
 ## Definition
 
-The four pillars are the axes along which any entity's health, integrity, and functional capacity are measured. They operate at EVERY Scope level. The content changes with scale. The diagnostic function is identical: how healthy is this entity along this axis?
+The four pillars are the axes along which any entity's health, Moiety, and functional capacity are measured. They operate at EVERY Scope level. The content changes with scale. The diagnostic function is identical: how healthy is this entity along this axis?
 
-## Physical (Structural Integrity)
+## Physical (Structural Integrity [structural])
 
 The physical composition, structural soundness, and material functionality of the entity.
 
-| Scope | What It Tracks | Example Threats |
-|---|---|---|
-| S0 | Body: bones, organs, blood, tissue | Sword wound, blunt force, burns, falling |
-| S1 | Squad effectiveness: casualties, exhaustion, ammunition | Ambush, suppressive fire, booby traps |
-| S2 | Engagement infrastructure: fortifications, equipment, positions | Siege engines, sappers, engineering operations |
-| S3-4 | Operational infrastructure: supply depots, roads, facilities | Sabotage, targeted destruction, logistics disruption |
-| S5-6 | Regional infrastructure: trade routes, production, agriculture | Blockade, sanctions, scorched earth |
-| S7-8 | Civilizational infrastructure: cities, industry, transportation networks | Strategic bombing, territorial conquest, economic warfare |
-| S9+ | Setting-scale physical integrity | Planar boundary rupture, cosmological structural failure |
+| Scope | What It Tracks                                                           | Example Threats                                           |
+| ----- | ------------------------------------------------------------------------ | --------------------------------------------------------- |
+| S0    | Body: bones, organs, blood, tissue                                       | Sword wound, blunt force, burns, falling                  |
+| S1    | Squad effectiveness: casualties, exhaustion, ammunition                  | Ambush, suppressive fire, booby traps                     |
+| S2    | Engagement infrastructure: fortifications, equipment, positions          | Siege engines, sappers, engineering operations            |
+| S3-4  | Operational infrastructure: supply depots, roads, facilities             | Sabotage, targeted destruction, logistics disruption      |
+| S5-6  | Regional infrastructure: trade routes, production, agriculture           | Blockade, sanctions, scorched earth                       |
+| S7-8  | Civilizational infrastructure: cities, industry, transportation networks | Strategic bombing, territorial conquest, economic warfare |
+| S9+   | Setting-scale physical integrity [structural]                            | Planar boundary rupture, cosmological structural failure  |
 
-## Metaphysical (Elemental/Chemical/Biological Integrity)
+## Metaphysical (Elemental/Chemical/Biological Integrity [structural])
 
 The isotope composition, planar coherence, and fundamental chemical-biological health of the entity. This is NOT limited to "magic." It encompasses the full spectrum of the five alchemy layers: inorganic chemistry (Borderlands), organic chemistry and biology (Verdant Font), thermodynamics and entropy (Synod), catalysis and process chemistry (Hidden Forge), and statistical mechanics and probability (Palimpsest).
 
 Agent Orange is a Metaphysical attack — Borderlands + Verdant Font compound isotope weaponized at Scope 7-8, poisoning the chemical and biological substrate of an entire territory for generations.
 
-| Scope | What It Tracks | Example Threats |
-|---|---|---|
-| S0 | Personal biochemistry: Strain, poison, disease, radiation | Toxic exposure, disease vector, isotope contamination |
-| S1 | Local environmental quality: water, air, soil, ambient isotope levels | Localized contamination, bleed zone expansion |
-| S2 | Engagement-zone hazards: ward stability, tactical isotope use | Ward sabotage, chemical weapon deployment |
-| S3-4 | Operational magical infrastructure: communication networks, ritual sites, Kan-tech systems | Infrastructure disruption, communication ward collapse |
-| S5-6 | Regional elemental health: ley line stability, agricultural soil quality, water table purity | Resource extraction damage, ley line destabilization, industrial pollution |
-| S7-8 | Civilizational elemental health: territorial isotope balance, genetic health of populations, Smoothing Effect regional strength | Weaponized isotope contamination, genetic damage, territorial planar collapse |
-| S9+ | Cosmological coherence: the Smoothing Effect, planar boundary integrity | Reality Seam catastrophe, Coherence Clock failure |
+| Scope | What It Tracks                                                                                                                  | Example Threats                                                               |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| S0    | Personal biochemistry: Strain, poison, disease, radiation                                                                       | Toxic exposure, disease vector, isotope contamination                         |
+| S1    | Local environmental quality: water, air, soil, ambient isotope levels                                                           | Localized contamination, bleed zone expansion                                 |
+| S2    | Engagement-zone hazards: ward stability, tactical isotope use                                                                   | Ward sabotage, chemical weapon deployment                                     |
+| S3-4  | Operational magical infrastructure: communication networks, ritual sites, Kan-tech systems                                      | Infrastructure disruption, communication ward collapse                        |
+| S5-6  | Regional elemental health: ley line stability, agricultural soil quality, water table purity                                    | Resource extraction damage, ley line destabilization, industrial pollution    |
+| S7-8  | Civilizational elemental health: territorial isotope balance, genetic health of populations, Smoothing Effect regional strength | Weaponized isotope contamination, genetic damage, territorial planar collapse |
+| S9+   | Cosmological coherence: the Smoothing Effect, planar boundary integrity [structural]                                            | Reality Seam catastrophe, Coherence Clock failure                             |
 
 ## Mental (Identity Coherence)
 
-The psychological integrity, cognitive function, and identity coherence of the entity. At personal Scope, this is the individual's composure, conviction, and sense of self. At institutional Scope, this is the organization's ideological alignment and internal trust. At civilizational Scope, this is cultural identity and collective will.
+The psychological integrity [structural], cognitive function, and identity coherence of the entity. At personal Scope, this is the individual's composure, conviction, and sense of self. At institutional Scope, this is the organization's ideological alignment and internal trust. At civilizational Scope, this is cultural identity and collective will.
 
 | Scope | What It Tracks | Example Threats |
 |---|---|---|
@@ -287,12 +287,12 @@ A character moves one step down the relevant track when a single hit's post-Soak
 
 **Damage Threshold = (Primary Attribute + Mastery) × 2**
 
-| Pillar | Primary Attribute | Threshold Formula |
-|---|---|---|
-| Physical | Vigor | (Vigor + Mastery) × 2 |
-| Mental | Wits | (Wits + Mastery) × 2 |
-| Social | Composure | (Composure + Mastery) × 2 |
-| Metaphysical | Integrity | (Integrity + Mastery) × 2 |
+| Pillar       | Primary Attribute | Threshold Formula         |
+| ------------ | ----------------- | ------------------------- |
+| Physical     | Vigor             | (Vigor + Mastery) × 2     |
+| Mental       | Wits              | (Wits + Mastery) × 2      |
+| Social       | Composure         | (Composure + Mastery) × 2 |
+| Metaphysical | Moiety            | (Moiety + Mastery) × 2    |
 
 ## The Four Tracks
 
@@ -401,12 +401,12 @@ Each pillar has four defenses that parallel each other functionally. The defense
 
 ### Metaphysical Defenses
 
-| Defense | Formula | Defends Against |
-|---|---|---|
-| **Acuity** | 10 + Essence mod + Acuity mod + Mastery/2 | Incoming planar effects, ambient isotope exposure, magical targeting |
-| **Integrity** | 10 + Integrity attr mod + Vigor mod + Mastery/2 | Identity-altering metaphysical effects, Schema overwrite, possession |
-| **Resilience** | (Integrity attr + Mastery)/2 + Faith/Pact bonuses | Metaphysical damage absorption. Functions as Metaphysical Soak. |
-| **Essence** | 10 + Essence attr mod + Mastery bonus | Internal corruption, isotope contamination, planar identity drift |
+| Defense        | Formula                                           | Defends Against                                                      |
+| -------------- | ------------------------------------------------- | -------------------------------------------------------------------- |
+| **Acuity**     | 10 + Essence mod + Acuity mod + Mastery/2         | Incoming planar effects, ambient isotope exposure, magical targeting |
+| **Integrity**  | 10 + Integrity attr mod + Vigor mod + Mastery/2   | Identity-altering metaphysical effects, Schema overwrite, possession |
+| **Resilience** | (Integrity attr + Mastery)/2 + Faith/Pact bonuses | Metaphysical damage absorption. Functions as Metaphysical Soak.      |
+| **Essence**    | 10 + Essence attr mod + Mastery bonus             | Internal corruption, isotope contamination, planar identity drift    |
 
 *Note: The attribute previously called "Anima" has been renamed to **Essence** to avoid collision with Anima the god. Essence is the Metaphysical attribute governing raw planar connection and internal coherence. It feeds into Acuity (Metaphysical Evade), Essence defense (Metaphysical Resist), and the Pattern pool formula.*
 
