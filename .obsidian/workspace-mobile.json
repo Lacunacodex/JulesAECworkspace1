@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Setting_Bible_v3_resorted.md",
+                "file": "Jules/TERMINOLOGY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AEC_Setting_Bible_v3_resorted"
+              "title": "TERMINOLOGY"
             }
           }
         ],
@@ -200,8 +200,9 @@
   },
   "active": "b2c0b32eb842d51c",
   "lastOpenFiles": [
-    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Setting_Bible_v3_resorted-1.md",
+    "Jules/Aetherium-Codex-Capacities-Structure.md",
     "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Setting_Bible_v3_resorted.md",
+    "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Setting_Bible_v3_resorted-1.md",
     "Jules/Pending Review/MoC Claude correct Third 06232026/00_RESORT_MANIFEST.md",
     "99-Unsorted/Claude alpha v3/AC Unified Architecture.md",
     "Jules/Pending Review/MoC Claude correct Third 06232026/AEC_Isotopes_v3_resorted.md",
@@ -222,11 +223,10 @@
     "99-Unsorted/Ætherium Codex/items & Materia Alpha v2/ÆC SRD v2 Prima Materia Combined.md",
     "99-Unsorted/AEC Game mechanics/ÆC Isotopes Combined v2.md",
     "99-Unsorted/AEC Game mechanics/AC_Document_1_Unified_Architecture-1.md",
-    "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Bestiary v3 2026-06-23.md",
-    "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Adventure Generator v3.0 2026-06-23.md",
-    "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Unsorted Raw v3 2026-06-23.md",
+    "Jules/Pending Review/MoC Third Run 06232026/AEC Jules Bestiary v3 2026-06-23.md",
+    "Jules/Pending Review/MoC Third Run 06232026/AEC Jules Adventure Generator v3.0 2026-06-23.md",
+    "Jules/Pending Review/MoC Third Run 06232026/AEC Jules Unsorted Raw v3 2026-06-23.md",
     "Jules/Pending Review/MoC Second Run 06232026/AEC Jules Unsorted Raw v2 2026-06-23.md",
-    "Jules/Pending Review/MoC Third Run 0623206/AEC Jules Setting Bible v3 2026-06-23.md",
     "docs",
     "/docs",
     "scripts/jules_executor.py",

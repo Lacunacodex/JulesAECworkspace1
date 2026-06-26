@@ -1,0 +1,21 @@
+# Setting Bible
+> Generated on 2026-06-23
+
+- **Chekhov Network**: planar bleed as geographic Chekhov gun [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Dramatic Irony**: Aíon's native mode [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Foil/Shadow**: integration, not resolution [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Frame Narrative**: stories inside stories providing plausible deniability; home = Collegiate unreliable narration [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Gift-Curse**: every god's portfolio is a gift-curse structure [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Inheritance of Sin**: the zoetrope's operating mechanism as thematic engine [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Loyalty Conflict**: two legitimate obligations, no right answer [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Monomyth**: departure/initiation/return at safe narrative distance; home = Guild layer [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Nested Epic**: content visible only at the right scale; home = Perspective stack itself [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Prolepsis/Analepsis**: Chronosynclastic's structural epistemology [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Radio Drama grammar**: audience as co-creator; cannot be fully propagandistic [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Structural Irony**: Unity broadcasting restoration comedies about voluntary harmony to a managed population [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Succession Crisis**: competing legitimacies all real [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Theodicy**: why the consequence machine fails good people; engine's primary fuel [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Unreliable Narrator**: every institution's version is unreliable; truth lives between versions [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **Wounded Mentor**: the wound is the wisdom [Source: Divine_Comedies_v3_Concept_Extraction.md]
+- **◆ Natural**: forms without catalyst under appropriate conditions [Source: 4. ÆC Cross Planar Synod Primary.md]
+- **⚙ EMULSION**: antithetical planes forced together by Hidden Forge catalyst; cosmological event [Source: 4. ÆC Cross Planar Synod Primary.md]
